@@ -1,30 +1,28 @@
 ---
 name: Documentação de sprint
-about: Describe this issue template's purpose here.
+about: Template padrão para documentar as atividades e responsáveis da sprint
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-## Documentação da 1º Sprint
+## Documentação da Nª Sprint
 
 Descrição | Data
 --------- | ------
-| **Data de início**   | 15 de abril | 
-| **Data de término** | 22 de abril |
-| **Duração** | 7 dias |
+| **Data de início**   | (data)
+| **Data de término** | (data)
 
-### P/ ponto de controle 1
 | Issue | Responsável | Concluída | Causa |
 | :-:   | :-:         | :-:       | :-:   | 
-|  | | | |
-| |  | | |
-| | | | |
+| #(id da issue) | @(nome do responsável) | | |
+| #(id da issue) | @(nome do responsável) | | |
+| #(id da issue) | @(nome do responsável) | | |
   
 <!-- ✔️✖️⚠️ -->
-<!-- @durvalcarvalho --> 
-<!-- @hugorochaffs --> 
+<!-- @LorrayneCardozo  --> 
+<!-- @JaimeJuan11 --> 
 <!-- @joao15victor08 --> 
-<!-- @LeoSilvaGomes --> 
-<!-- @VictorJorgeFGA -->
+<!-- @V100k  --> 
+<!-- @GuilhermeBraz  -->
