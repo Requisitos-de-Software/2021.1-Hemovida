@@ -1,16 +1,17 @@
-* [HOME](README.md)
+* [Página Inicial](README.md)
 
-* [Apresentações](#)
-  * [Apresentação 1](./apresentacoes/apresentacao1.md)
-
-* [Planejamento](#)
+* [Acompanhamento](#)
+  * [Planejamento](./acompanhamento/planejamento.md)
+  * [Apresentações](./acompanhamento/apresentacoes.md)
 
 * [Pré-Rastreabilidade](#)
 
 * [Elicitação](#)
 
-* [Modelagem de Requisitos - Ágil](#)
+* [Priorização](#)
 
-* [Análise de Requisitos](#)
+* [Modelagem](#)
+
+* [Análise](#)
 
 * [Pós-Rastreabilidade](#)
