@@ -19,6 +19,7 @@ Suas principais funcionalidades são:
 - Agendar doação de sangue.
 - Apresentar avisos e alertas.
 - Convidar um amigo a doar sangue.
+
 ## Integrantes
 <table>
     <tr>
