@@ -3,7 +3,22 @@
 <img src="imagens/home.png" width="auto" height="auto">
 
 ## Sobre 
-bla bla
+O Hemovida é um aplicativo móvel multiplataforma, gratuito, que possibilita realizar a captação de doadores de sangue, apoiando os hemocentros da rede pública de saúde do Brasil a divulgar informações pertinentes ao público e campanhas de doação de sangue.
+Suas principais funcionalidades são:
+- Listar hemocentro.
+- Detalhar dados do hemocentro.
+- Traçar rota.
+- Apresentar Geolocalização dos hemocentros.
+- Divulgar campanhas publicitárias.
+- Compartilhar campanha via rede social.
+- Regras para doação de sangue.
+- Espaço do doador de sangue.
+- Compartilhar localização.
+- Histórico de doações (minhas doações).
+- Avaliar hemocentro.
+- Agendar doação de sangue.
+- Apresentar avisos e alertas.
+- Convidar um amigo a doar sangue.
 ## Integrantes
 <table>
     <tr>
