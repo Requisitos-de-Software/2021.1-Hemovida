@@ -1,6 +1,6 @@
 # Página Inicial
 
-<img src="imagens/home.png" width="auto" height="auto">
+<img src="images/home.jpg" width="auto" height="auto">
 
 ## Sobre 
 O Hemovida é um aplicativo móvel multiplataforma, gratuito, que possibilita realizar a captação de doadores de sangue, apoiando os hemocentros da rede pública de saúde do Brasil a divulgar informações pertinentes ao público e campanhas de doação de sangue.
