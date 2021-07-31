@@ -5,6 +5,7 @@
   * [Apresentações](./acompanhamento/apresentacoes.md)
 
 * [Pré-Rastreabilidade](#)
+  * [Sobre](./pre-rastreabilidade/sobre.md)
   * [Rich Picture](./pre-rastreabilidade/richPicture.md)
 
 * [Elicitação](#)
