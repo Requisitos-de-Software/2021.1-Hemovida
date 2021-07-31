@@ -5,8 +5,9 @@ Versão | Data | Autor | Descrição
 
 # Introdução
 
+
 # Rich Pictures
 ## Versão 1
-<img src="../images/richPicture.jpeg" width="600">
+![RichPicture - Versão 1](../images/richPicture.jpeg)
 
 # Referências
