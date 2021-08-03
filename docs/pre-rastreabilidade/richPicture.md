@@ -17,7 +17,7 @@ Um Rich Picture é uma ferramenta construída, preferencialmente, juntamente com
 ## Versão 1
 
 <p align='center'>
-    <img src='/images/richPicture.jpeg'>
+    <img src='images/richPicture.jpeg'>
     <figcaption align='center'>
         <b>Figura 1: Rich Picture do Hemovida</b>
         <br>
