@@ -1,9 +1,10 @@
 # <center>Rich Picture</center>
 
-# Histórico de Revisão
-Versão | Data | Autor | Descrição
-:-:|:-:|:-:|:-:
-1.0 | 31/07/2021 | Lorrayne Cardozo | Adicionando primeira versão do Rich Picture
+## Histórico de versão
+| Data | Versão | Autor | Descrição |
+| :-:|:-:|:-:|:-: |
+| 31/07/2021 | 0.1 | Lorrayne Cardozo | Adicionando primeira versão do Rich Picture |
+| 03/08/2021 | 0.2 | João Victor | Adicionando legenda na imagem |
 
 <div align="justify">
 
@@ -14,7 +15,15 @@ Um Rich Picture é uma ferramenta construída, preferencialmente, juntamente com
 
 # Rich Pictures
 ## Versão 1
-![RichPicture - Versão 1](../images/richPicture.jpeg)
+
+<p align='center'>
+    <img src='/images/richPicture.jpeg'>
+    <figcaption align='center'>
+        <b>Figura 1: Rich Picture do Hemovida</b>
+        <br>
+        <small>Fonte: Autor</small>
+    </figcaption>
+</p>
 
 # Referências
 Multi-Stakeholder Partinerships. Disponível em <div http://www.mspguide.org/tool/rich-picture >. Acesso em: 31 de julho de 2021.
