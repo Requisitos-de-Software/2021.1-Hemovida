@@ -26,4 +26,4 @@ Um Rich Picture é uma ferramenta construída, preferencialmente, juntamente com
 </p>
 
 # Referências
-Multi-Stakeholder Partinerships. Disponível em <a href="http://www.mspguide.org/tool/rich-picture">http://www.mspguide.org/tool/rich-picture</a>. Acesso em: 31 de julho de 2021.
+Multi-Stakeholder Partinerships. Disponível em: <a href="http://www.mspguide.org/tool/rich-picture" target="_blank">http://www.mspguide.org/tool/rich-picture</a>. Acesso em: 31 de julho de 2021.
