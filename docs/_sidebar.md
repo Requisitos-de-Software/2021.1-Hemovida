@@ -2,6 +2,7 @@
 
 * [Acompanhamento](#)
   * [Planejamento](./acompanhamento/planejamento.md)
+  * [Tecnologias](./tecnologias/tecnologias.md)
   <!-- * [Apresentações](./acompanhamento/apresentacoes.md) -->
 
 * [Pré-Rastreabilidade](#)

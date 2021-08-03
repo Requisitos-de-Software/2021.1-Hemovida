@@ -14,7 +14,7 @@ Durante o processo de comunicação, criação e documentação das reuniões, i
 ## Telegram
 
 <p align='center'>
-    <img src='imagens/telegram.jpg'>
+    <img src='images/telegram.jpg'>
 </p>
 
 Aplicativo para mobile e desktop para troca de mensagens e criação de grupos. Utilizado para mensagens rápidas e discussões mais informais e menos pontuais.
@@ -22,7 +22,7 @@ Aplicativo para mobile e desktop para troca de mensagens e criação de grupos. 
 # Discord
 
 <p align='center'>
-    <img src='imagens/discord.jpg'>
+    <img src='./images/discord.jpg'>
 </p>
 
 Aplicativo para mobile e desktop focado em criação de servidores para comunicações ao vivo em voice, compartilhamento de tela e outras mensagens. Utilizado para reuniões agendadas sejam em grupo ou duplas para facilitar o trabalho compartilhado.
