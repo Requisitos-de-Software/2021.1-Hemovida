@@ -22,7 +22,7 @@ Aplicativo para mobile e desktop para troca de mensagens e criação de grupos. 
 # Discord
 
 <p align='center'>
-    <img src='./images/discord.jpg'>
+    <img src='images/discord.jpg'>
 </p>
 
 Aplicativo para mobile e desktop focado em criação de servidores para comunicações ao vivo em voice, compartilhamento de tela e outras mensagens. Utilizado para reuniões agendadas sejam em grupo ou duplas para facilitar o trabalho compartilhado.
@@ -30,7 +30,7 @@ Aplicativo para mobile e desktop focado em criação de servidores para comunica
 # Docsify
 
 <p align='center'>
-    <img src='imagens/docsify.png'>
+    <img src='images/docsify.png'>
 </p>
 
 Site gerador de documentação para visualização em sites. Utilizado na pré-documentação auxiliando a estruturá-la com melhor qualidade.
@@ -38,7 +38,7 @@ Site gerador de documentação para visualização em sites. Utilizado na pré-d
 # Github
 
 <p align='center'>
-    <img src='imagens/github.png'>
+    <img src='images/github.png'>
 </p>
 
 Plataforma para salvar e documentar todo o desenvolvimento do projeto em suas respectivas etapas e disponibiliza-la para acesso geral.
@@ -46,7 +46,7 @@ Plataforma para salvar e documentar todo o desenvolvimento do projeto em suas re
 # Google Drive
 
 <p align='center'>
-    <img src='imagens/google-drive.png'>
+    <img src='images/google-drive.png'>
 </p>
 
 Plataforma para compartilhar entre os membros do grupo os documentos mais específicos a serem entregues e avaliados, como preparar a apresentação em grupo.
@@ -54,7 +54,7 @@ Plataforma para compartilhar entre os membros do grupo os documentos mais espec�
 # Lucidchart
 
 <p align='center'>
-    <img src='imagens/lucidchart.png'>
+    <img src='images/lucidchart.png'>
 </p>
 
 Aplicação alternativa para melhor comunicação visual e colaborações entre plataformas. Auxilia na criação de fluxogramas profissionais, mapas de processos, modelos UML, organogramas e diagramas ER com os nossos modelos editáveis ou o recurso de importação.
