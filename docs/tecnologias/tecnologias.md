@@ -1,4 +1,4 @@
-# <center>Tecnologias Utilizadas</center>
+# <center> Tecnologias Utilizadas
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

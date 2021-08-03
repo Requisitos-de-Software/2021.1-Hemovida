@@ -1,4 +1,4 @@
-# <center>Rich Picture</center>
+# <center> Rich Picture
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

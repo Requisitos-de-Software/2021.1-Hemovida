@@ -42,4 +42,4 @@ Foi construído um heatmap para ter um conhecimento da disponibilidade dos integ
 ## 3.Metodologia
 O grupo optou por utilizar o scrum e dividir o desenvolvimento do projeto em sprints, usando das ferramentas como github para controle e revisão e para acopanhamento do grupo realizaremos reuniões todas terças 16h pelo discord. Para outras trocas de informações e mensagens utilizaremos do telegram e do drive.
 
-</div>
+</div> 
