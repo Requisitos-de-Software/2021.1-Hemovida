@@ -1,7 +1,7 @@
 # <center> Planejamento
 
 
-# Histórico de versão
+## Histórico de versão
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 03/08/2021 | 0.1 | João Victor | Criação do documento |

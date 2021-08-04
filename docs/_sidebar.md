@@ -1,19 +1,20 @@
-* [Página Inicial](README.md)
+- [Página Inicial](README.md)
 
-* [Acompanhamento](#)
-  * [Planejamento](./acompanhamento/planejamento.md)
-  * [Tecnologias](./tecnologias/tecnologias.md)
-  <!-- * [Apresentações](./acompanhamento/apresentacoes.md) -->
+- Acompanhamento
+  - [Planejamento](./acompanhamento/planejamento.md)
+  - [Tecnologias](./tecnologias/tecnologias.md)
+  - Apresentações
+    - [Ponto de Controle 1](./acompanhamento/ponto_controle_1.md)
 
-* [Pré-Rastreabilidade](#)
-  * [Rich Picture](./pre-rastreabilidade/richPicture.md)
+- Pré-Rastreabilidade
+  - [Rich Picture](./pre-rastreabilidade/richPicture.md)
 
-<!-- * [Elicitação](#)
+<!-- - [Elicitação](#)
 
-* [Priorização](#)
+- [Priorização](#)
 
-* [Modelagem](#)
+- [Modelagem](#)
 
-* [Análise](#)
+- [Análise](#)
 
-* [Pós-Rastreabilidade](#) -->
+- [Pós-Rastreabilidade](#) -->
