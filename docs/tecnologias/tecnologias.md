@@ -7,11 +7,11 @@
 
 <div align="justify">
 
-# Introdução
+## Introdução
 Durante o processo de comunicação, criação e documentação das reuniões, issues e todo material disponível nesse projeto foram utilizadas as seguintes tecnologias (atentar para a última versão deste documento):
 
-# Tecnologias
-## Telegram
+## Tecnologias
+### Telegram
 
 <p align='center'>
     <img src='images/telegram.jpg' style="width: 50%;">
@@ -19,7 +19,7 @@ Durante o processo de comunicação, criação e documentação das reuniões, i
 
 Aplicativo para mobile e desktop para troca de mensagens e criação de grupos. Utilizado para mensagens rápidas e discussões mais informais e menos pontuais.
 
-# Discord
+## Discord
 
 <p align='center'>
     <img src='images/discord.jpg' style="width: 50%;">
@@ -27,7 +27,7 @@ Aplicativo para mobile e desktop para troca de mensagens e criação de grupos. 
 
 Aplicativo para mobile e desktop focado em criação de servidores para comunicações ao vivo em voice, compartilhamento de tela e outras mensagens. Utilizado para reuniões agendadas sejam em grupo ou duplas para facilitar o trabalho compartilhado.
 
-# Docsify
+## Docsify
 
 <p align='center'>
     <img src='images/docsify.png' style="width: 50%;">
@@ -35,7 +35,7 @@ Aplicativo para mobile e desktop focado em criação de servidores para comunica
 
 Site gerador de documentação para visualização em sites. Utilizado na pré-documentação auxiliando a estruturá-la com melhor qualidade.
 
-# Github
+## Github
 
 <p align='center'>
     <img src='images/github.png' style="width: 50%;">
@@ -43,7 +43,7 @@ Site gerador de documentação para visualização em sites. Utilizado na pré-d
 
 Plataforma para salvar e documentar todo o desenvolvimento do projeto em suas respectivas etapas e disponibiliza-la para acesso geral.
 
-# Google Drive
+## Google Drive
 
 <p align='center'>
     <img src='images/google-drive.png' style="width: 50%;">
@@ -51,7 +51,7 @@ Plataforma para salvar e documentar todo o desenvolvimento do projeto em suas re
 
 Plataforma para compartilhar entre os membros do grupo os documentos mais específicos a serem entregues e avaliados, como preparar a apresentação em grupo.
 
-# Lucidchart
+## Lucidchart
 
 <p align='center'>
     <img src='images/lucidchart.png' style="width: 50%;">

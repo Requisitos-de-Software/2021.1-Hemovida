@@ -3,11 +3,13 @@
 - Acompanhamento
   - [Planejamento](./acompanhamento/planejamento.md)
   - [Tecnologias](./tecnologias/tecnologias.md)
-  - Apresentações
-    - [Ponto de Controle 1](./acompanhamento/ponto_controle_1.md)
 
 - Pré-Rastreabilidade
   - [Rich Picture](./pre-rastreabilidade/richPicture.md)
+
+- Apresentações
+  - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
+
 
 <!-- - [Elicitação](#)
 
