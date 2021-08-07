@@ -11,9 +11,10 @@
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
 
 
-<!-- - [Elicitação](#)
+- [Elicitação](#)
+  - [Personas](./elicitacao/personas.md)
 
-- [Priorização](#)
+<!-- - [Priorização](#)
 
 - [Modelagem](#)
 
