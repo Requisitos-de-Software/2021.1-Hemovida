@@ -23,7 +23,7 @@ Courage e Baxter (2005) listaram as seguintes características para definir uma 
 | | |
 | :- | :- |
 | Status: | Persona Primária |
-| Foto: |  |
+| Foto: | <img src='../images/personaPrimaria.jpeg' width=250px height=auto> |
 | Nome: |  |
 | Idade: |  |
 | Profissão: |  |
@@ -38,7 +38,7 @@ Courage e Baxter (2005) listaram as seguintes características para definir uma 
 | | |
 | :- | :- |
 | Status: | Persona Secundária |
-| Foto: |  |
+| Foto: | <img src='../images/personaSecundaria.jpeg' width=250px height=auto> |
 | Nome: |  |
 | Idade: |  |
 | Profissão: |  |
@@ -53,7 +53,7 @@ Courage e Baxter (2005) listaram as seguintes características para definir uma 
 | | |
 | :- | :- |
 | Status: | Antipersona |
-| Foto: |  |
+| Foto: | <img src='../images/antipersona.jpeg' width=150px height=auto> |
 | Nome: |  |
 | Idade: |  |
 | Profissão: |  |
