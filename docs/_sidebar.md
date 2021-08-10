@@ -7,13 +7,14 @@
 - Pré-Rastreabilidade
   - [Rich Picture](./pre-rastreabilidade/richPicture.md)
 
+- Elicitação 
+  - [Personas](./elicitacao/personas.md)
+
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
 
 
-<!-- - [Elicitação](#)
-
-- [Priorização](#)
+<!-- - [Priorização](#)
 
 - [Modelagem](#)
 
