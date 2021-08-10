@@ -4,14 +4,16 @@
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 05/08/2021 | 0.1 | Lorrayne Cardozo | Criação do documento de personas |
+| 10/08/2021 | 0.2 | João Victor | Revisão do documento |
+<div align="justify">
 
 ## Introdução
 
 Personas são personagens fictícios criados para simular um grupo usuário do sistema caracterizados principalmente por seus objetivos, podendo estar incluídos stakeholders ou um anti-usuário. Inicialmente, são criadas aproximações razoáveis até que se torne uma equipe admissível de personas.
 
 Courage e Baxter (2005) listaram as seguintes características que podem ser usadas para definir uma persona:
-* Identidade: a persona deve ter nome, sobrenome e idades.
-* Status: deve estar definido se a persona é primária, secundária, stakeholder ou uma antipersona.
+* Identidade: a persona deve ter nome, sobrenome e idade.
+* Status: deve estar definido se a persona é primária, secundária ou uma antipersona.
 * Objetivo: os objetivos da persona devem estar claros, não só os relacionados ao produto.
 * Habilidades: devem ser descritas as habilidades da persona, como formação e competências específicas.
 * Tarefas: as tarefas realizadas pela persona também devem ser descritas, detalhando sua frequência, importância e duração.
@@ -32,7 +34,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | Idade: | 24 anos |
 | Profissão: | Comerciante |
 | Escolaridade: | Ensino médio completo |
-| Tarefas | Mariana mora sozinha e possui uma pequena loja de roupas em sua cidade, em que trabalha de segunda a sabado. No seu tempo livre, costuma ir para a academia, sair com os amigos e visitar a família. |
+| Tarefas | Mariana mora sozinha e possui uma pequena loja de roupas em sua cidade, em que trabalha de segunda a sábado. No seu tempo livre, costuma ir para a academia, sair com os amigos e visitar a família. |
 | Objetivos: | Tem o objeto de expandir sua loja e comprar um carro, além de continuar sendo doadora de sangue. |
 | Expectativas: | Mariana é doadora de sangue desde seus 18 anos e, eventualmente, viaja para visitar família e amigos e procura hemocentros próximos para realizar suas doações. Também tem a curiosidade de saber algumas informações como, por exemplo, quantas vezes já doou e qual seu tipo sanguíneo. |
 
@@ -66,3 +68,5 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro. Editora Elsevier, 2010.
 
 As imagens utilizadas para representar a equipe de personas foram encontradas no site [Pexels](https://www.pexels.com/pt-br/), onde a utilização é gratuita e a citação de créditos não é obrigatória, conforme é apresentado em sua [licença](https://www.pexels.com/pt-br/licenca/).
+
+</div> 
