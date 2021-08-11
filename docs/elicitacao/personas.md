@@ -29,7 +29,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | | |
 | :- | :- |
 | Status: | Persona Primária |
-| Foto: | <img src='../images/personaPrimaria.jpeg' width=250px height=auto> |
+| Foto: | <img src='images/personaPrimaria.jpeg' width=250px height=auto> |
 | Nome: | Mariana Reis |
 | Idade: | 24 anos |
 | Profissão: | Comerciante |
@@ -42,7 +42,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | | |
 | :- | :- |
 | Status: | Persona Secundária |
-| Foto: | <img src='../images/personaSecundaria.jpeg' width=250px height=auto> |
+| Foto: | <img src='images/personaSecundaria.jpeg' width=250px height=auto> |
 | Nome: | João Lima |
 | Idade: | 30 anos |
 | Profissão: | Enfermeiro |
@@ -55,7 +55,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | | |
 | :- | :- |
 | Status: | Antipersona |
-| Foto: | <img src='../images/antipersona.jpeg' width=220px height=auto> |
+| Foto: | <img src='images/antipersona.jpeg' width=220px height=auto> |
 | Nome: | Luiza Fernandes |
 | Idade: | 71 anos |
 | Profissão: | Aposentada |
