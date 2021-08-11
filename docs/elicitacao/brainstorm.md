@@ -85,7 +85,7 @@ O objetivo desse documento é registrar as ideias e requisitos levantados por me
 | 011 | Ter a opção de ver a lista de hemocentros próximos a localização | Requisito Funcional |
 | 012 | Ter a opção de escolher a localização para procurar hemocentros próximos | Requisito Funcional |
 | 013 | Ter a opção de usar a localização do dispositivo para procurar hemocentros próximos | Requisito Funcional |
-| 014 | Ter a opção de ver informações sobre os hemocentros (telefoneshorário de atendimento, site... ) | Requisito Funcional |
+| 014 | Ter a opção de ver informações sobre os hemocentros (telefones, horário de atendimento, site... ) | Requisito Funcional |
 | 015 | Ter a opção de ver rotas para locomoção ao hemocentro | Requisito Funcional |
 | 016 | Ter a opção de visualizar um mapa com a localização dos hemocentros próximos | Requisito Funcional |
 | 017 | Ter a opção de ver a data da ultima doação feita | Requisito Funcional |
