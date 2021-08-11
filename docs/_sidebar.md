@@ -1,16 +1,17 @@
 - [Página Inicial](README.md)
 
-- Acompanhamento
+- [Acompanhamento](#)
   - [Planejamento](./acompanhamento/planejamento.md)
   - [Tecnologias](./tecnologias/tecnologias.md)
 
-- Pré-Rastreabilidade
+- [Pré-Rastreabilidade](#)
   - [Rich Picture](./pre-rastreabilidade/richPicture.md)
 
-- Elicitação 
+- [Elicitação](#) 
   - [Personas](./elicitacao/personas.md)
+  - [Brainstorm](./elicitacao/brainstorm.md)
 
-- Apresentações
+- [Apresentações](#)
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
 
 
