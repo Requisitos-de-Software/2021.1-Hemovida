@@ -5,19 +5,24 @@
   - [Tecnologias](./tecnologias/tecnologias.md)
 
 - Pré-Rastreabilidade(#)
+- [Acompanhamento](#)
+  - [Planejamento](./acompanhamento/planejamento.md)
+  - [Tecnologias](./tecnologias/tecnologias.md)
+
+- [Pré-Rastreabilidade](#)
   - [Rich Picture](./pre-rastreabilidade/richPicture.md)
   - [5W2H](./pre-rastreabilidade/5w2h.md)
 
-- Elicitação(#)
+- [Elicitação](#) 
   - [Personas](./elicitacao/personas.md)
+  - [Brainstorm](./elicitacao/brainstorm.md)
+  - [Observaçao](./elicitacao/observacao.md)
 
-- Apresentações(#)
+- [Apresentações](#)
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
-
 
 <!-- - [Priorização](#)
 
-- [Modelagem](#)
 
 - [Análise](#)
 
