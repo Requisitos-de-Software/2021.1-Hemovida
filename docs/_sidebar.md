@@ -9,10 +9,9 @@
 
 - [Elicitação](#) 
   - [Personas](./elicitacao/personas.md)
-
   - [Brainstorm](./elicitacao/brainstorm.md)
-  
   - [Observaçao](./elicitacao/observacao.md)
+  - [Storyboard](./elicitacao/storyboard.md)
 
 - [Apresentações](#)
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
