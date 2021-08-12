@@ -5,7 +5,8 @@
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 03/08/2021 | 0.1 | João Victor | Criação do documento |
-
+| 03/08/2021 | 0.2 | Guilherme Braz | Adição da metodologia |
+ 
 <div align="justify">
 
 ## 1. Planejamento do projeto
