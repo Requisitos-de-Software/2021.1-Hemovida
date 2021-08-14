@@ -7,7 +7,7 @@
 <div align="justify">
 
 ## 1. Introdução
-O presente documento reúne todos os requisitos levantados do projeto, nomeando o ID identificando a técnica de elicitação utilizada para caracterizar cada um.
+O presente documento reúne todos os requisitos levantados do projeto, nomeando seu ID identificando a técnica de elicitação utilizada para caracterizar cada um.
 
 ## 2. Metologia
 A equipe utilizou diferentes técnicas de elicitação para levantar e concluir, finalmente, a lista de requisitos do projeto. As técnicas utilizadas foram:
