@@ -62,5 +62,5 @@ A equipe utilizou diferentes técnicas de elicitação para levantar e concluir,
 | 07 | O aplicativo deve ter fácil uso | Brainstorm |
 | 08 | O aplicativo deve ser intuitivo | Brainstorm |
 
-## 5. Referências Bibliográficas
+## 5. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. Slides apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
