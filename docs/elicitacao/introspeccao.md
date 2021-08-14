@@ -66,7 +66,7 @@
 | 14 | Victor Hugo | Convidar um amigo a doar sangue | Funcional |
 
 
-## 6. Referências Bibliográficas
+## 6. Referências
 
 - SOMMERVILLE. Ian. 2011. Engenharia de Software.
 - Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf Acesso em: 26 fev. 2021.

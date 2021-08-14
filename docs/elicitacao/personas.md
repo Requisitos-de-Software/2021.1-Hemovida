@@ -7,7 +7,7 @@
 | 10/08/2021 | 0.2 | João Victor | Revisão do documento |
 <div align="justify">
 
-## Introdução
+## 1. Introdução
 
 Personas são personagens fictícios criados para simular um grupo usuário do sistema caracterizados principalmente por seus objetivos, podendo estar incluídos stakeholders ou um anti-usuário. Inicialmente, são criadas aproximações razoáveis até que se torne uma equipe admissível de personas.
 
@@ -21,11 +21,11 @@ Courage e Baxter (2005) listaram as seguintes características que podem ser usa
 * Requisitos: os requisitos devem descrever do que a persona precisa.
 * Expectativas: as expectativas são a forma que a persona acredita que o produto funciona, e como irá será útil.
 
-## Objetivo
+## 2. Objetivo
 O presente documento tem o objetivo de apresentar a equipe de personas do aplicativo [Hemovida](https://requisitos-de-software.github.io/2021.1-Hemovida), composta por uma persona primária, uma persona secundária e uma antipersona.
 
-## Equipe de Personas
-### Persona Primária
+## 3. Equipe de Personas
+### 3.1. Persona Primária
 | | |
 | :- | :- |
 | Status: | Persona Primária |
@@ -38,7 +38,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | Objetivos: | Tem o objeto de expandir sua loja e comprar um carro, além de continuar sendo doadora de sangue. |
 | Expectativas: | Mariana é doadora de sangue desde seus 18 anos e, eventualmente, viaja para visitar família e amigos e procura hemocentros próximos para realizar suas doações. Também tem a curiosidade de saber algumas informações como, por exemplo, quantas vezes já doou e qual seu tipo sanguíneo. |
 
-### Persona Secundária
+### 3.2. Persona Secundária
 | | |
 | :- | :- |
 | Status: | Persona Secundária |
@@ -51,7 +51,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | Objetivos: | Pretende comprar uma casa, além de doar sangue pela primeira vez. |
 | Expectativas: | João nunca doou sangue, mas planeja se tornar um doador em breve. Para isso, se informará por meio da internet quanto aos hemocentros mais próximos da sua localização e dos pré-requisitos para que possa doar sangue. |
 
-### Antipersona
+### 3.3. Antipersona
 | | |
 | :- | :- |
 | Status: | Antipersona |
@@ -64,7 +64,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | Objetivos: | Pretende adotar um animal. |
 | Expectativas: | Luiza já ultrapassou a idade máxima de um doador, que é de 69 anos. Por isso, é uma antipersona do sistema e o aplicativo Hemovida não é destinado a ela. |
 
-## Referências
+## 4. Referências
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro. Editora Elsevier, 2010.
 
 As imagens utilizadas para representar a equipe de personas foram encontradas no site [Pexels](https://www.pexels.com/pt-br/), onde a utilização é gratuita e a citação de créditos não é obrigatória, conforme é apresentado em sua [licença](https://www.pexels.com/pt-br/licenca/).

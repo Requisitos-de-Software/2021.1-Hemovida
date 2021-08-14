@@ -1,4 +1,4 @@
-# **StoryBoard**
+# <center>StoryBoard</center>
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |
@@ -8,16 +8,16 @@
 
 <div align="justify">
 
-## Introdução
+## 1. Introdução
 StoryBoard é a técnica que usa uma sequência de cenas para mostrar situações fictícias da interação do usuário com o sistema.
 
-## Metodologia 
+## 2. Metodologia 
 
 Foram realizados dois storyboards que mostram certas situações que retratam exemplos do uso do aplicativo Hemovida no cotidiano dos usuários.
 
-##  Resultado
+## 3. Resultado
 
-### Storyboards
+### 3.1. Storyboards
 <p align='center'>
     <img src='images/tira1.png'>
     <figcaption align='center'>
@@ -36,7 +36,7 @@ Foram realizados dois storyboards que mostram certas situações que retratam ex
     </figcaption>
 </p>
 
-### Requisitos elicitados
+### 3.2. Requisitos elicitados
 
 | Id | Descrição |
 | -- | --------- |
@@ -47,7 +47,7 @@ Foram realizados dois storyboards que mostram certas situações que retratam ex
 
 
 
-## Referências
+## 4. Referências
 - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07; 
 - BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro. Editora Elsevier, 2010.
 - O storyboard foi feito na ferramenta online gratuita https://www.storyboardthat.com/storyboard-creator.

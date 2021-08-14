@@ -51,7 +51,7 @@ O objetivo desse documento é listar os requisitos elicitados após a aplicaçã
 ## 5. Conclusão
 Após a aplicação da técnica de observação foram elicitados 22 requisitos funcionais.
 
-### Referências
+## 6. Referências
 
 - [1] Técnicas de elicitação de requisitos. Disponível em: https://sites.google.com/site/tecnicaselicitacao/ 
 

@@ -106,10 +106,8 @@ O objetivo desse documento é registrar as ideias e requisitos levantados por me
 Ao total foram identificados 28 requisitos utilizando a técnica de brainstorm, sendo 20 requistos funcionais e 8 requisitos não funcionais.
 
 
-### Referências
+## 6. Referências
 
 Woebcken, Cayo. O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes. Disponível em: https://rockcontent.com/br/blog/brainstorming/ 
-
-
 
 </div> 
