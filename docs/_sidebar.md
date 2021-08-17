@@ -12,7 +12,7 @@
 - [Elicitação]() 
   - [Personas](./elicitacao/personas.md)
   - [Brainstorm](./elicitacao/brainstorm.md)
-  - [Observaçao](./elicitacao/observacao.md)
+  - [Observação](./elicitacao/observacao.md)
   - [StoryBoard](./elicitacao/storyboard.md)
   - [Requisitos Elicitados](./elicitacao/requisitos_elicitados.md)
 
