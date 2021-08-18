@@ -3,7 +3,7 @@
 
 - [Acompanhamento](#)
   - [Planejamento](./acompanhamento/planejamento.md)
-  - [Tecnologias](./tecnologias/tecnologias.md)
+  - [Tecnologias](./acompanhamento/tecnologias.md)
 
 - [Pré-Rastreabilidade](#)
   - [Rich Picture](./pre-rastreabilidade/richPicture.md)
@@ -15,13 +15,13 @@
   - [Observação](./elicitacao/observacao.md)
   - [StoryBoard](./elicitacao/storyboard.md)
   - [Requisitos Elicitados](./elicitacao/requisitos_elicitados.md)
+
+- [Priorização](#)
   - [First Things First](./elicitacao/first-things-fisrt.md)
+<!--  - [MoSCoW](./elicitacao/)-->
 
 - [Apresentações](#)
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
-
-<!-- - [Priorização](#)
-
 
 - [Análise](#)
 
