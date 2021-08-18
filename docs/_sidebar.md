@@ -20,7 +20,7 @@
 - Priorização
   - [First Things First](./priorizacao/first-things-fisrt.md)
 <!--  - [MoSCoW](./elicitacao/)-->
-
+priorizacao\first-things-fisrt.md
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
 
