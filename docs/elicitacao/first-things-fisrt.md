@@ -4,6 +4,7 @@
 | Data | Versão | Autor | Descrição |
 | :-: | :-: | :-: | :-: |
 | 17/08/2021 | 0.1 | Jaime Juan e Victor Hugo | Criação do documento |
+| 18/08/2021 | 0.2 | Jaime Juan e Victor Hugo | Finalização da Tabela de Priorização |
 <div align="justify">
 
 ## 1. Introdução
@@ -54,7 +55,7 @@ Nessa prática de priorização, é construída uma tabela de forma que equilibr
 | RF20 | Ter a opção de notificar o usuário sobre a data de sua próxima doação | Brainstorm |
 | RF21 | O usuário deve poder selecionar um hemocentro da lista | Observação |
 | RF22 | O sistema deve dar opções de aplicativos de rotas para o usuário | Observação |
-| RF23 | 	O usuário deve poder visualizar as notificações recebidas | Observação |
+| RF23 | O usuário deve poder visualizar as notificações recebidas | Observação |
 | RF24 | O usuário deve poder visualizar dados sobre o aplicativo (versão, quem desenvolveu ...) | Observação |
 | RF25 | O usuário deve poder compartilhar a localização do hemocentro mais próximo de sua localização | Observação |
 | RF26 | O usuário deve ser capaz de avaliar o hemocentro | StoryBoard |
@@ -63,19 +64,44 @@ Nessa prática de priorização, é construída uma tabela de forma que equilibr
 | RN01 | O aplicativo deve ter um layout responsivo para variados tamanhos de telas | Brainstorm |
 | RN02 | O aplicativo deve ser leve (não ser maior que 100MB) | Brainstorm |
 | RN03 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar informações) | Brainstorm |
-| RN04 | 	O aplicativo deve ter compatibilidade com diversos sistemas operacionais (IOS, Android, versão web) | Brainstorm |
+| RN04 | O aplicativo deve ter compatibilidade com diversos sistemas operacionais (IOS, Android, versão web) | Brainstorm |
 | RN05 | O aplicativo deve ter modo escuro e modo claro | Brainstorm |
 | RN06 | O aplicativo deve ter uma interface simples e amigavel | Brainstorm |
 | RN07 | O aplicativo deve ter fácil uso | Brainstorm |
 | RN08 | O aplicativo deve ser intuitivo | Brainstorm |
 
 ## 4. Priorização First Things First
-<!-- Victor Hugo - Completar a Tabela e solicitar o PR -->
 | Funcionalidade | Benefício relativo | Penalidade | Valor Total | Valor % | Custo Relativo | Custo % | Risco relativo | Risco % | Prioridade |
 | -------------- | ------------------ | ---------- | ----------- | ------- | -------------- | ------- | -------------- | ------- | ---------- |
-| RFxx |xx|xx|xx|xx,xxxx|xx|xx,xxxx|x|xx,xxxx|xx,xxxx|
-| RFxx |xx|xx|xx|xx,xxxx|xx|xx,xxxx|x|xx,xxxx|xx,xxxx|
-| Total |xx|xx|xx|100|xx|100|xx|100|-|
+| RF20 |9|9|18|4,9451|7|3,8462|5|2,9412|0,7286|
+| RF09 |8|8|16|4,3956|6|3,2967|5|2,9412|0,7047|
+| RF18 |8|8|16|4,3956|6|3,2967|5|2,9412|0,7047|
+| RF19 |8|9|17|4,6703|7|3,8462|5|2,9412|0,6881|
+| RF06 |8|7|15|4,1209|7|3,8462|6|3,5294|0,5587|
+| RF11 |8|8|16|4,3956|7|3,8462|7|4,1176|0,5519|
+| RF04 |5|5|10|2,7473|5|2,7473|4|2,3529|0,5387|
+| RF23 |7|5|12|3,2967|6|3,2967|5|2,9412|0,5285|
+| RF25 |7|6|13|3,5714|6|3,2967|6|3,5294|0,5232|
+| RF08 |7|8|15|4,1209|7|3,8462|7|4,1176|0,5175|
+| RF28 |7|5|12|3,2967|7|3,8462|5|2,9412|0,4857|
+| RF24 |4|3|7|1,9231|4|2,1978|3|1,7647|0,4853|
+| RF05 |6|6|12|3,2967|6|3,2967|6|3,5294|0,4830|
+| RF12 |7|7|14|3,8462|7|3,8462|7|4,1176|0,4830|
+| RF14 |7|7|14|3,8462|7|3,8462|7|4,1176|0,4830|
+| RF16 |7|7|14|3,8462|7|3,8462|7|4,1176|0,4830|
+| RF07 |6|7|13|3,5714|6|3,2967|7|4,1176|0,4817|
+| RF10 |8|8|16|4,3956|8|4,3956|9|5,2941|0,4536|
+| RF13 |8|7|15|4,1209|8|4,3956|8|4,7059|0,4528|
+| RF01 |7|6|13|3,5714|7|3,8462|7|4,1176|0,4485|
+| RF02 |6|5|11|3,0220|6|3,2967|5|2,9412|0,4485|
+| RF21 |7|6|13|3,5714|7|3,8462|7|4,1176|0,4485|
+| RF27 |6|6|12|3,2967|7|3,8462|6|3,5294|0,4470|
+| RF26 |7|4|11|3,0220|6|3,2967|6|3,5294|0,4427|
+| RF17 |4|5|9|2,4725|6|3,2967|5|2,9412|0,3964|
+| RF03 |6|5|11|3,0220|7|3,8462|7|4,1176|0,3795|
+| RF15 |7|4|11|3,0220|7|3,8462|7|4,1176|0,3795|
+| RF22 |4|4|8|2,1978|5|2,7473|6|3,5294|0,3502|
+| Total |189|175|364|100|182|100|170|100|13,1792|
 
 ### **Pesos adotados:**
 - Peso Relativo: 1.
