@@ -1,23 +1,23 @@
 - [Página Inicial](/)
 
 
-- [Acompanhamento]()
+- [Acompanhamento](#)
   - [Planejamento](./acompanhamento/planejamento.md)
   - [Tecnologias](./tecnologias/tecnologias.md)
 
-- [Pré-Rastreabilidade]()
+- [Pré-Rastreabilidade](#)
   - [Rich Picture](./pre-rastreabilidade/richPicture.md)
   - [5W2H](./pre-rastreabilidade/5w2h.md)
 
-- [Elicitação]() 
+- [Elicitação](#) 
   - [Personas](./elicitacao/personas.md)
   - [Brainstorm](./elicitacao/brainstorm.md)
   - [Observação](./elicitacao/observacao.md)
   - [StoryBoard](./elicitacao/storyboard.md)
   - [Requisitos Elicitados](./elicitacao/requisitos_elicitados.md)
-  - [First Things First1](./elicitacao/first-things-fisrt.md)
+  - [First Things First](./elicitacao/first-things-fisrt.md)
 
-- [Apresentações]()
+- [Apresentações](#)
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
 
 <!-- - [Priorização](#)
