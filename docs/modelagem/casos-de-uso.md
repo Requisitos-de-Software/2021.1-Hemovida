@@ -16,10 +16,11 @@ Um caso de uso define uma série de ações executadas pelo sistema e retorna va
 
 ## 3. Diagrama de Casos de Uso
 
-<img src="images/<>.<>" width="auto" height="auto">
+<img src="images/diagrama.png" width="auto" height="auto">
 
-## 4. Referências
-
+## 4. Conclusão
+O diagrama de casos de uso, serve para dar uma visão mais clara sobre como é organizada as tarefas.
+## 5. Referências
 O que é um diagrama UML? . Lucidchart, 2020. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-uml. Acesso em: 26, Setembro de 2020.
 
 UML Use Case Diagrams uml-diagrams. Disponível em: https://www.uml-diagrams.org/use-case-diagrams.html.Acesso em: 27, Setembro de 2020.
