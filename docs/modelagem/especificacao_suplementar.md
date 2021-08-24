@@ -21,14 +21,13 @@ A metodologia utilizada será o FURPS+, que é um método para a classificação
 * Supportability (Facilidade de suporte): os requisitos de suportabilidade envolvem a manutenibilidade, compatibilidade, configurabilidade, testabilidade, entre outras características que envolvem o suporte do software;
 * '+': engloba os outros requisitos não-funcionais que devem ser lembrados, como requisitos de design e interface.
 
-## 4. Requisitos Não-Funcionais
-Os requisitos não-funcionais do aplicativo Hemovida que foram obtidos por meio de diversas técnicas de elicitação podem ser encontrados no documento de [Requisitos Elicitados](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/requisitos_elicitados).
+## 4. FURPS+
 
 ### 4.1. Funcionalidade
 * Os requisitos funcionais do aplicativo Hemovida que foram obtidos por meio de técnicas de elicitação podem ser encontrados no documento de [Requisitos Elicitados](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/requisitos_elicitados).
 
 ### 4.2. Usabilidade
-* Facilidade no uso: O aplicativo deve ser intuitivo, para que o usuário encontre com facilidade o que deseja.
+* Facilidade no uso: O aplicativo deve ser intuitivo, para que o usuário encontre com facilidade o que procura.
 
 ### 4.3. Confiabilidade
 * Privacidade de dados: Os dados dos usuários devem ser mantidos em segurança.
@@ -43,8 +42,8 @@ Os requisitos não-funcionais do aplicativo Hemovida que foram obtidos por meio 
 * Compatibilidade: O aplicativo deve estar disponível para Android e IOS.
 * Internet: O aplicativo necessita de acesso contínuo a internet.
 
-### 4.6. Restrições de Design
-* O design deve ser intuitivo e acessível para analfabetos tecnológicos.
+### 4.6. Acessibilidade
+* Design intuitivo: O design deve ser intuitivo e acessível para melhor compreensão de analfabetos tecnológicos e deficientes visuais.
 
 ## 5. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. Slides apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
