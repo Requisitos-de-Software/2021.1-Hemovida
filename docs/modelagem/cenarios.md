@@ -5,6 +5,8 @@
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 24/08/2021 | 0.1 | João Victor | Criação do documento |
+| 25/08/2021 | 0.2 | Lorrayne Cardozo | Revisão do documento |
+
 
 <div align="justify">
 
@@ -14,9 +16,8 @@ Os cenários são exemplos da vida real em que o sistema é ou será utilizado. 
 ## 2. Metodologia
 Para a elaboração dos cenários, utilizaremos a tabela a seguir como modelo para os cenários.
 
-| | |
-| - | - |
 | Título | Título do cenário |
+| :-: | :-: |
 | Objetivo | Objetivo/meta do cenário |
 | Contexto | pré-condição:</br>pós-condição: |
 | Atores | Atores envolvidos |
@@ -33,7 +34,7 @@ O objetivo desse documento é apresentar os cenários criados.
 
 ### C01 - Login utilizando o gov.br
 | | |
-| - | - |
+| - | :- |
 | Título | Login utilizando o gov.br |
 | Objetivo | Logar no Hemovida para ter acesso a histórico de doações, agendamento, convite à amigos e etc. |
 | Contexto | pré-condição: Possuir cadastro no Meugov.br</br>pós-condição: Usuário logado com acesso liberado às funcionalidades de agendamento, histórico etc. |
@@ -45,10 +46,10 @@ O objetivo desse documento é apresentar os cenários criados.
 
 ### C02 - Visualizar histórico de doações
 | | |
-| - | - |
+| - | :- |
 | Título | Visualizar histórico de doações |
 | Objetivo | O usuário pode visualizar informações sobre doações ja feitas |
-| Contexto | pré-condição:Usuário logado </br>pós-condição:O usuário verá as informações sobre suas doações já feitas |
+| Contexto | pré-condição: Usuário logado </br>pós-condição: O usuário verá as informações sobre suas doações já feitas |
 | Atores | Usuário |
 | Recursos | Acesso à internet |
 | Episódios | 1.O usuário acessa o Hemovida</br>2.O usuário acessa a aba Doador</br>3.O usuário seleciona a opção Minhas doações</br> |
@@ -69,10 +70,10 @@ O objetivo desse documento é apresentar os cenários criados.
 
 ### C04 - Agendamento de doação
 | | |
-| - | - |
+| - | :- |
 | Título | Agendamento de doação |
 | Objetivo | O usuário agendar uma doação de sangue no hemocentro desejado |
-| Contexto | pré-condição:Usuário logado </br>pós-condição:Agendamento concluido |
+| Contexto | pré-condição: Usuário logado </br>pós-condição: Agendamento concluído |
 | Atores | Usuário |
 | Recursos | Acesso à internet |
 | Episódios | 1.O usuário acessa o Hemovida</br>2.O usuário seleciona o hemocentro desejado</br>3.O usuário seleciona a aba Solicitar agendamento</br>4.O usuário seleciona a data desejada</br>5.O usuário seleciona um dos horários disponiveis daquele dia</br>6.O usuário confirma o agendamento   |
@@ -81,10 +82,10 @@ O objetivo desse documento é apresentar os cenários criados.
 
 ### C05 - Visualizar regras para doação
 | | |
-| - | - |
+| - | :- |
 | Título | Visualizar regras para doação |
-| Objetivo | o usuário visualizar quais são as regras e condições basicas para poder realizar a doação de sangue |
-| Contexto | pré-condição: - </br>pós-condição:O usuário visualiza as regras de doação |
+| Objetivo | o usuário visualizar quais são as regras e condições básicas para poder realizar a doação de sangue |
+| Contexto | pré-condição: - </br>pós-condição: O usuário visualiza as regras de doação |
 | Atores | Usuário |
 | Recursos | - |
 | Episódios | 1.O usuário acessa o Hemovida</br>2.O usuário seleciona a aba Regras |
