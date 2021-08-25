@@ -9,6 +9,7 @@
   - [Rich Picture](./pre-rastreabilidade/richPicture.md)
   - [5W2H](./pre-rastreabilidade/5w2h.md)
 
+
 - Elicitação 
   - [Personas](./elicitacao/personas.md)
   - [Brainstorm](./elicitacao/brainstorm.md)
@@ -22,6 +23,9 @@
   - [MoSCoW](./priorizacao/moscow.md)
 
 - Modelagem
+  - [Léxicos](./modelagem/lexico.md)
+  - [Casos de Uso](./modelagem/casos-de-uso.md)
+  - [Especificação Suplementar](./modelagem/especificacao_suplementar.md)
   - [Cenários](./modelagem/cenarios.md)
 
 - Apresentações
