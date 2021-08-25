@@ -1,10 +1,12 @@
-# Léxicos
+# <center> Léxicos
 
 ## Histórico de Revisões
 
 | Data | Versão | Autor | Descrição |
 | --- | --- | --- | --- |
 | 23/08/2021 | 1.0 | Guilherme Braz, Victor Hugo  | Criação do documento |
+
+<div align="justify">
 
 ## Introdução 
 Nessa parte da modelagem foi usado a técnica de léxicos para demonstrar e explicar o contexto/escopo do projeto em símbolos para ajudar na compreensão e organização da modelagem de requisitos.
@@ -203,3 +205,5 @@ Nessa parte da modelagem foi usado a técnica de léxicos para demonstrar e expl
 ## Referências
 
 > SAMPAIO, Julio; FRANCO, Ana. "A strategy for Conceptual Model Acquisition". Departamento de informática, Pontíficia Universidade Católica, Rio de Janeiro.
+
+</div>
