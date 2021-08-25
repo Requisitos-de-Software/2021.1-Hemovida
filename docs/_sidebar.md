@@ -3,28 +3,33 @@
 
 - Acompanhamento
   - [Planejamento](./acompanhamento/planejamento.md)
-  - [Tecnologias](./tecnologias/tecnologias.md)
+  - [Tecnologias](./acompanhamento/tecnologias.md)
 
 - Pré-Rastreabilidade
   - [Rich Picture](./pre-rastreabilidade/richPicture.md)
   - [5W2H](./pre-rastreabilidade/5w2h.md)
 
-- Elicitação
+
+- Elicitação 
   - [Personas](./elicitacao/personas.md)
   - [Brainstorm](./elicitacao/brainstorm.md)
   - [Observação](./elicitacao/observacao.md)
   - [StoryBoard](./elicitacao/storyboard.md)
+  - [Introspecção](./elicitacao/introspeccao.md)
   - [Requisitos Elicitados](./elicitacao/requisitos_elicitados.md)
 
-- Modelagem
-  - [Especificação Suplementar](./modelagem/especificacao_suplementar.md)
+- Priorização
+  - [First Things First](./priorizacao/first-things-fisrt.md)
+  - [MoSCoW](./priorizacao/moscow.md)
 
+- Modelagem
+  - [Casos de Uso](./modelagem/casos-de-uso.md)
+  - [Especificação Suplementar](./modelagem/especificacao_suplementar.md)
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
+  - [Ponto de Controle 2](./apresentacoes/ponto_controle_2.md)
 
-<!-- - [Priorização](#)
-
-
+<!--
 - [Análise](#)
 
 - [Pós-Rastreabilidade](#) -->

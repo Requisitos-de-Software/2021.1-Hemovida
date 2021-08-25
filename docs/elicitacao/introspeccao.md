@@ -1,4 +1,4 @@
-# <center>Introspecção</center>
+# <center> Introspecção
 
 ## Histórico de versão
 | Versão | Data | Modificação | Autor |

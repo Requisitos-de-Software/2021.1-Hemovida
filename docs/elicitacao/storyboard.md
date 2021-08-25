@@ -1,4 +1,4 @@
-# <center>StoryBoard</center>
+# <center> StoryBoard
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

@@ -1,4 +1,4 @@
-# <center> Requisitos Elicitados </center>
+# <center> Requisitos Elicitados
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |
