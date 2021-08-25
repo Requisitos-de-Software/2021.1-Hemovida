@@ -23,8 +23,10 @@
   - [MoSCoW](./priorizacao/moscow.md)
 
 - Modelagem
+  - [Léxicos](./modelagem/lexico.md)
   - [Casos de Uso](./modelagem/casos-de-uso.md)
   - [Especificação Suplementar](./modelagem/especificacao_suplementar.md)
+
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
   - [Ponto de Controle 2](./apresentacoes/ponto_controle_2.md)
