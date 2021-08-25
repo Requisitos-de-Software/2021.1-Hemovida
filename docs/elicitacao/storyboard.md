@@ -1,4 +1,4 @@
-# <center> StoryBoard
+# <center> Storytelling
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |
@@ -9,7 +9,7 @@
 <div align="justify">
 
 ## 1. Introdução
-StoryBoard é a técnica que usa uma sequência de cenas para mostrar situações fictícias da interação do usuário com o sistema.
+Storytelling é a técnica que usa uma sequência de cenas para mostrar situações fictícias da interação do usuário com o sistema.
 
 ## 2. Metodologia 
 

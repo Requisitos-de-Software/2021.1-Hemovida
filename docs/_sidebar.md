@@ -13,13 +13,16 @@
   - [Personas](./elicitacao/personas.md)
   - [Brainstorm](./elicitacao/brainstorm.md)
   - [Observação](./elicitacao/observacao.md)
-  - [StoryBoard](./elicitacao/storyboard.md)
+  - [Storytelling](./elicitacao/storyboard.md)
   - [Introspecção](./elicitacao/introspeccao.md)
   - [Requisitos Elicitados](./elicitacao/requisitos_elicitados.md)
 
 - Priorização
   - [First Things First](./priorizacao/first-things-fisrt.md)
   - [MoSCoW](./priorizacao/moscow.md)
+
+- Modelagem
+  - [Cenários](./modelagem/cenarios.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
