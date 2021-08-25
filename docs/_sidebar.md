@@ -22,7 +22,7 @@
   - [MoSCoW](./priorizacao/moscow.md)
 
 - Modelagem
-  - [Diagrama de Casos de Uso](./modelagem/casos-de-uso.md)
+  - [Casos de Uso](./modelagem/casos-de-uso.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
