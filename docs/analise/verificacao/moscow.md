@@ -15,16 +15,15 @@ Foi realizado uma tabela com vários questionários com `Checklist`, aplicando a
 ## 3. Questionário
 | ID | Descrição | Inspeção | 
 | :-: | :-: | :-: |
-| 01 | O MoSCoW contempla todos os requisitos funcionais? | ✅
-| 02 | O MoSCoW apresenta a sessão “Must”? | ✅
-| 03 | O MoSCoW apresenta a sessão “Should”? | ✅
-| 04 | O MoSCoW apresenta a sessão “Could”? | ✅
-| 05 | O MoSCoW apresenta a sessão “Want”? | ✅
-| 06 | A divisão dos requisitos está coerente? | ✅
-| 07 | A linguagem utilizada está padronizada? | ✅
+| 01 | O MoSCoW contempla todos os requisitos? | ✅
+| 02 | A divisão dos requisitos está coerente? | ✅
+| 03 | A técnica foi aplicada de forma correta? | ✅
+| 04 | A metodologia foi bem utilizada? | ✅
+| 05 | Os requisitos estão bem escritos? | ✅
+| 06 | O documento atende o proposto? | ✅
 
 ## 4. Conclusão
-Analisando o questionário utilizado, como forma de avaliar se o documento atende ou não as especificações do MoSCoW, é possível visualizar que o documento se encontra com 100% dos tópicos atendidos, porcentagem esperada pela quantidade de detalhes e padrões que o documento possui.
+Analisando o questionário utilizado, como forma de avaliar se o documento atende ou não as especificações do MoSCoW, é possível visualizar que o documento se encontra com 100% dos tópicos atendidos, porcentagem esperada pela quantidade de detalhes e padrões que o documento procurou adotar.
 
 ## 5. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

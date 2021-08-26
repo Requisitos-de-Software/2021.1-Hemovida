@@ -18,11 +18,13 @@ Foi realizado uma tabela com vários questionários com `Checklist`, aplicando a
 | 01 | A criação das personas está coerente com a realidade? | ✅ | ✅ | ✅
 | 02 | As personas contêm informações bem definidas e descritas? | ✅ | ✅ | ✅
 | 03 | As personas têm histórias claras? | ✅ | ✅ | ✅
-| 04 | Possui rastreabilidade? | ✅ | ✅ | ✅
-| 05 | Possui versionamento? | ✅ | ✅ | ✅
+| 04 | Está evidente se a persona é primária, secundária ou anti-persona? | ✅ | ✅ | ✅
+| 05 | A condição que levou a persona a procurar o sistema foi criada de maneira correta? | ✅ | ✅ | ✅
+| 06 | A descrição de como a persona lida atualmente com o problema que o sistema propõe solução está bem descrita? | ✅ | ✅ | ✅
+| 07 | O documento atende o proposto? | ✅ | ✅ | ✅
 
 ## 4. Conclusão
-Analisando o questionário utilizado, como forma de avaliar se o documento atende ou não as especificações das Personas, é possível visualizar que o documento se encontra com 100% dos tópicos atendidos, porcentagem esperada pela quantidade de detalhes e padrões que o documento possui.
+Analisando o questionário utilizado, como forma de avaliar se o documento atende ou não as especificações das Personas, é possível visualizar que o documento se encontra com 100% dos tópicos atendidos, porcentagem esperada pela quantidade de detalhes e padrões que o documento procurou adotar.
 
 ## 5. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
