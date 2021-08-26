@@ -40,6 +40,4 @@
   - [Ponto de Controle 2](./apresentacoes/ponto_controle_2.md)
 
 <!--
-- [Análise](#)
-
 - [Pós-Rastreabilidade](#) -->
