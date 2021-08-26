@@ -28,6 +28,13 @@
   - [Especificação Suplementar](./modelagem/especificacao_suplementar.md)
   - [Cenários](./modelagem/cenarios.md)
 
+- Análise
+  - Verificação
+    - [MoSCoW](./analise/verificacao/moscow.md)
+    - [Personas](./analise/verificacao/personas.md)
+<!--  - Validação
+    - [](./analise/validacao/.md)-->
+
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
   - [Ponto de Controle 2](./apresentacoes/ponto_controle_2.md)
