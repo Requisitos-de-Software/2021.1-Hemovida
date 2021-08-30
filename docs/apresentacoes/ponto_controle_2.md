@@ -1,6 +1,6 @@
 # <center> Ponto de Controle 2
 
-O segundo ponto de controle do curso de Requisitos de Software tem como foco o planejamento e estruturação do projeto da disciplina. Com base nisso o grupo se organizou para criar uma apresentação em formato de vídeo para que a entrega fosse realizada.
+O segundo ponto de controle do curso de Requisitos de Software tem como foco a elicitação do projeto da disciplina. Com base nisso o grupo se organizou para criar uma apresentação em formato de vídeo para que a entrega fosse realizada.
 
 ## Vídeo
 

@@ -31,6 +31,7 @@
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
   - [Ponto de Controle 2](./apresentacoes/ponto_controle_2.md)
+  - [Ponto de Controle 3](./apresentacoes/ponto_controle_3.md)
 
 <!--
 - [Análise](#)
