@@ -30,11 +30,11 @@
   - [Backlog do Produto](./modelagem/backlog.md)
 
 - Análise
-  - Verificação
+  - **Verificação**
     - [MoSCoW](./analise/verificacao/moscow.md)
     - [Personas](./analise/verificacao/personas.md)
-    - [Verificação do Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
-    - [Verificação do First Things First](./analise/verificacao/verificacao_ftf.md)
+    - [Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
+    - [First Things First](./analise/verificacao/verificacao_ftf.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
