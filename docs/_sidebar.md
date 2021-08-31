@@ -27,6 +27,7 @@
   - [Casos de Uso](./modelagem/casos-de-uso.md)
   - [Especificação Suplementar](./modelagem/especificacao_suplementar.md)
   - [Cenários](./modelagem/cenarios.md)
+  - [Backlog do Produto](./modelagem/backlog.md)
 
 - Análise
   - Verificação
