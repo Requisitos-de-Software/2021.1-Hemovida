@@ -29,8 +29,11 @@
   - [Cenários](./modelagem/cenarios.md)
 
 - Análise
-  - [Verificação do Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
-  - [Verificação do First Things First](./analise/verificacao/verificacao_ftf.md)
+  - Verificação
+    - [MoSCoW](./analise/verificacao/moscow.md)
+    - [Personas](./analise/verificacao/personas.md)
+    - [Verificação do Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
+    - [Verificação do First Things First](./analise/verificacao/verificacao_ftf.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
@@ -38,5 +41,8 @@
   - [Ponto de Controle 3](./apresentacoes/ponto_controle_3.md)
 
 <!--
+<<<<<<< HEAD
+=======
 
+>>>>>>> 45df0410ac9812c1180eb075e0c71e9d9e314e9e
 - [Pós-Rastreabilidade](#) -->
