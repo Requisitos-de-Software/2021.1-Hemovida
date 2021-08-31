@@ -26,7 +26,7 @@ A verificação do documento Brainstorm será feita de acordo com a metodologia 
 | 4 | Os requisitos funcionais estão bem escritos? | ✅ |
 | 5 | Os requisitos não-funcionais estão bem escritos? | ✅ |
 | 6 | A ortografia do documento está correta? | ✅ |
-| 7 | A bibliografia utilizada na criação do documento foi decrita? | ✅ |
+| 7 | A bibliografia utilizada na criação do documento foi descrita? | ✅ |
 
 ## 5. Conclusão
 Após a análise do Brainstorm, conclui-se que o documento não apresenta irregularidades.

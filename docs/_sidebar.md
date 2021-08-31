@@ -28,13 +28,13 @@
   - [Especificação Suplementar](./modelagem/especificacao_suplementar.md)
   - [Cenários](./modelagem/cenarios.md)
 
+- Análise
+  - [Verificação do Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
+  - [Verificação do First Things First](./analise/verificacao/verificacao_ftf.md)
+
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
   - [Ponto de Controle 2](./apresentacoes/ponto_controle_2.md)
-
-- [Análise](#)
-  - [Verificação do Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
-  - [Verificação do First Things First](./analise/verificacao/verificacao_ftf.md)
 
 <!--
 
