@@ -19,7 +19,7 @@ Com base no plano de ensino, foi definido um cronograma seguindo os artefatos ex
 | Entrega 1 | Planejamento do projeto <br> Planejamento da equipe<br>App selecionado<br>Ferramentas do projeto<br>Cronograma<br>RichPicture<br>Gravar apresentação PC1 | 29/07 - 03/08 |
 | Entrega 2 | Brainstorm<br>Observação<br>5W2H<br>Personas<br>Storyboard<br>Instrospecção<br>Requisitos elicitados<br>Priorização dos requisitos<br>Gravar apresentação PC2 | 04/08 - 17/08 |
 | Entrega 3 | Cenários<br>Léxicos<br>Casos de Uso<br>Especificação suplementar<br>Gravar apresentação PC3 | 18/08 - 24/08 |
-| Entrega 4 | Histórias de usuários<br>Backlogs<br>NFR Framework<br>Gravar apresentação PC4 | 25/08 - 07/09 |
+| Entrega 4 | Histórias de [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário)s<br>Backlogs<br>NFR Framework<br>Gravar apresentação PC4 | 25/08 - 07/09 |
 | Entrega 5 | Verificação dos documentos<br>Validação dos documentos<br>Gravar apresentação do PC5 | 08/09 - 14/09 |
 | Entrega 6 | Backward from<br>Forward from<br>Revisão dos documentos<br>Gravar apresentação PC6 | 15/09 - 05/10 |
 | Entrega 7 | Gravar apresentação final | 06/10 - 20/10 |

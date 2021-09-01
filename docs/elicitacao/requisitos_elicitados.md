@@ -21,33 +21,33 @@ A equipe utilizou diferentes técnicas de elicitação para levantar e concluir,
 | ID | Requisito | Técnica Utilizada |
 | :-: | :- | :- |
 | 01 | Ter a opção de login pelo Meugov.br | Brainstorm |
-| 02 | Ter a opção de logout | Brainstorm |
+| 02 | Ter a opção de [logout](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=logout) | Brainstorm |
 | 03 | Ter a opção de criar conta pelo Meugov.br | Brainstorm |
-| 04 | O usuário deve poder visualizar regras e intruções para a realização da doação | Observação |
+| 04 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar regras e intruções para a realização da doação | Observação |
 | 05 | Ter a opção de convidar um amigo | Brainstorm |
-| 06 | O usuário deve poder visualizar seus dados pessoais (nome, email, telefone, CPF, CNS, tipo de conteúdo) | Observação |
-| 07 | Ter a opção de visualizar histórico de doações | Brainstorm |
-| 08 | Ter a opção de visualizar campanhas de doação | Brainstorm |
+| 06 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar seus dados pessoais (nome, email, telefone, CPF, CNS, tipo de conteúdo) | Observação |
+| 07 | Ter a opção de [visualizar histórico de doações](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=visualizar-histórico-de-doações) | Brainstorm |
+| 08 | Ter a opção de [visualizar campanhas de doação](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=visualizar-campanhas-de-doações) | Brainstorm |
 | 09 | Ter a opção de ver notificações sobre doações agendadas | Brainstorm |
 | 10 | Ter a opção de solicitar agendamento de doação | Brainstorm |
-| 11 | Ter a opção de ver a lista de hemocentros próximos a localização | Brainstorm |
-| 12 | Ter a opção de escolher a localização para procurar hemocentros próximos | Brainstorm |
-| 13 | Ter a opção de usar a localização do dispositivo para procurar hemocentros próximos | Brainstorm |
-| 14 | O usuário deve poder visualizar informações (telefone, horário de atendimento, site, endereço ...) sobre o hemocentro selecionado | Observação |
-| 15 | Ter a opção de ver rotas para locomoção ao hemocentro | Brainstorm |
-| 16 | Ter a opção de visualizar um mapa com a localização dos hemocentros próximos | Brainstorm |
+| 11 | Ter a opção de ver a lista de [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos a localização | Brainstorm |
+| 12 | Ter a opção de escolher a localização para procurar [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
+| 13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
+| 14 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar informações (telefone, horário de atendimento, site, endereço ...) sobre o [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) selecionado | Observação |
+| 15 | Ter a opção de ver rotas para locomoção ao [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) | Brainstorm |
+| 16 | Ter a opção de visualizar um mapa com a localização dos [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
 | 17 | Ter a opção de ver a data da ultima doação feita | Brainstorm |
 | 18 | Ter a opção de ver a data da próxima doação | Brainstorm |
-| 19 | Ter a opção de notificar o usuário sobre campanhas de doação | Brainstorm |
-| 20 | Ter a opção de notificar o usuário sobre a data de sua próxima doação | Brainstorm |
-| 21 | O usuário deve poder selecionar um hemocentro da lista | Observação |
-| 22 | O sistema deve dar opções de aplicativos de rotas para o usuário | Observação |
-| 23 | 	O usuário deve poder visualizar as notificações recebidas | Observação |
-| 24 | O usuário deve poder visualizar dados sobre o aplicativo (versão, quem desenvolveu ...) | Observação |
-| 25 | O usuário deve poder compartilhar a localização do hemocentro mais próximo de sua localização | Observação |
-| 26 | O usuário deve ser capaz de avaliar o hemocentro | StoryBoard |
-| 27 | Detalhar dados do hemocentro | Introspecção |
-| 28 | Compartilhar campanha via rede social | Introspecção |
+| 19 | Ter a opção de notificar o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) sobre campanhas de doação | Brainstorm |
+| 20 | Ter a opção de notificar o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) sobre a data de sua próxima doação | Brainstorm |
+| 21 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder selecionar um [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) da lista | Observação |
+| 22 | O sistema deve dar opções de aplicativos de rotas para o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) | Observação |
+| 23 | 	O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar as notificações recebidas | Observação |
+| 24 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar dados sobre o aplicativo (versão, quem desenvolveu ...) | Observação |
+| 25 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder compartilhar a localização do [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) mais próximo de sua localização | Observação |
+| 26 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve ser capaz de avaliar o [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) | StoryBoard |
+| 27 | Detalhar dados do [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) | Introspecção |
+| 28 | [compartilhar campanha](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Introspecção |
 
 
 ## 4. Requisitos Não-Funcionais

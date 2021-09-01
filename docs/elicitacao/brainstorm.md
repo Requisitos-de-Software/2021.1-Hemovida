@@ -25,7 +25,7 @@ A equipe realizou uma reunião no dia 10/08/2021 para a realização da técnica
 
 - Quais as caracteristicas o app deve ter?
 - Quais informações o app deve fornecer?
-- Quais as tarefas que o usuário pode realizar no app?
+- Quais as tarefas que o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) pode realizar no app?
 
 Os membros do grupo que participaram do braistorm foram:
 
@@ -62,7 +62,7 @@ O objetivo desse documento é registrar as ideias e requisitos levantados por me
 <p align='center'>
     <img src='images/brainstorm_3.png' width=50% height=auto>
     <figcaption align='center'>
-        <b>Figura 3: Ideias levantadas sobre as tarefas que o usuário pode realizar no app</b>
+        <b>Figura 3: Ideias levantadas sobre as tarefas que o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) pode realizar no app</b>
         <br>
         <small>Fonte: Autor</small>
     </figcaption>
@@ -73,25 +73,25 @@ O objetivo desse documento é registrar as ideias e requisitos levantados por me
 | Id | Descrição | Tipo de requisito |
 | -- | --------- | ----------------- |
 | 001 | Ter a opção de login pelo Meugov.br | Requisito Funcional |
-| 002 | Ter a opção de logout | Requisito Funcional |
+| 002 | Ter a opção de [logout](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=logout) | Requisito Funcional |
 | 003 | Ter a opção de criar conta pelo Meugov.br | Requisito Funcional |
 | 004 | Ter a opção de ver regras de doação | Requisito Funcional |
 | 005 | Ter a opção de convidar um amigo | Requisito Funcional |
 | 006 | Ter a opção de visualizar dados pessoais | Requisito Funcional |
-| 007 | Ter a opção de visualizar histórico de doações | Requisito Funcional |
-| 008 | Ter a opção de visualizar campanhas de doação | Requisito Funcional |
+| 007 | Ter a opção de [visualizar histórico de doações](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=visualizar-histórico-de-doações) | Requisito Funcional |
+| 008 | Ter a opção de [visualizar campanhas de doação](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=visualizar-campanhas-de-doações) | Requisito Funcional |
 | 009 | Ter a opção de ver notificações sobre doações agendadas | Requisito Funcional |
 | 010 | Ter a opção de solicitar agendamento de doação | Requisito Funcional |
-| 011 | Ter a opção de ver a lista de hemocentros próximos a localização | Requisito Funcional |
-| 012 | Ter a opção de escolher a localização para procurar hemocentros próximos | Requisito Funcional |
-| 013 | Ter a opção de usar a localização do dispositivo para procurar hemocentros próximos | Requisito Funcional |
-| 014 | Ter a opção de ver informações sobre os hemocentros (telefones, horário de atendimento, site... ) | Requisito Funcional |
-| 015 | Ter a opção de ver rotas para locomoção ao hemocentro | Requisito Funcional |
-| 016 | Ter a opção de visualizar um mapa com a localização dos hemocentros próximos | Requisito Funcional |
+| 011 | Ter a opção de ver a lista de [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos a localização | Requisito Funcional |
+| 012 | Ter a opção de escolher a localização para procurar [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
+| 013 | Ter a opção de usar a localização do dispositivo para procurar [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
+| 014 | Ter a opção de ver informações sobre os [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s (telefones, horário de atendimento, site... ) | Requisito Funcional |
+| 015 | Ter a opção de ver rotas para locomoção ao [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) | Requisito Funcional |
+| 016 | Ter a opção de visualizar um mapa com a localização dos [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
 | 017 | Ter a opção de ver a data da ultima doação feita | Requisito Funcional |
 | 018 | Ter a opção de ver a data da próxima doação | Requisito Funcional |
-| 019 | Ter a opção de notificar o usuário sobre campanhas de doação | Requisito Funcional |
-| 020 | Ter a opção de notificar o usuário sobre a data de sua próxima doação | Requisito Funcional |
+| 019 | Ter a opção de notificar o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) sobre campanhas de doação | Requisito Funcional |
+| 020 | Ter a opção de notificar o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) sobre a data de sua próxima doação | Requisito Funcional |
 | 021 | O aplicativo deve ter um layout responsivo para variados tamanhos de telas | Requisito Não Funcional |
 | 022 | O aplicativo deve ser leve (não ser maior que 100MB) | Requisito Não Funcional |
 | 023 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar informações) | Requisito Não Funcional |
