@@ -10,10 +10,10 @@
 <div align="justify">
 
 ## 1. Introdução
-O diagrama descreve o que o aplicativo faz do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com o usuário.
+O diagrama descreve o que o aplicativo faz do ponto de vista do [usuário](./modelagem/lexico?id=usuário). Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com o [usuário](./modelagem/lexico?id=usuário).
 
 ## 2. Metodologia
-Um caso de uso define uma série de ações executadas pelo sistema e retorna valores que podem ser observados pelos atores. Ator é a função que o usuário desempenha no sistema. Cada caso de uso descreve as operações que o sistema deve realizar para retornar certos valores ao ator, demonstrando as funções do sistema utilizadas pelo ator. Os casos de uso representam um fluxo completo de eventos, ou seja, o diálogo entre os participantes e o sistema.
+Um caso de uso define uma série de ações executadas pelo sistema e retorna valores que podem ser observados pelos atores. Ator é a função que o [usuário](./modelagem/lexico?id=usuário) desempenha no sistema. Cada caso de uso descreve as operações que o sistema deve realizar para retornar certos valores ao ator, demonstrando as funções do sistema utilizadas pelo ator. Os casos de uso representam um fluxo completo de eventos, ou seja, o diálogo entre os participantes e o sistema.
 
 ## 3. Diagrama de Casos de Uso
 

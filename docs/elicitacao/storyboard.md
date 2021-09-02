@@ -9,11 +9,11 @@
 <div align="justify">
 
 ## 1. Introdução
-Storytelling é a técnica que usa uma sequência de cenas para mostrar situações fictícias da interação do usuário com o sistema.
+Storytelling é a técnica que usa uma sequência de cenas para mostrar situações fictícias da interação do [usuário](./modelagem/lexico?id=usuário) com o sistema.
 
 ## 2. Metodologia 
 
-Foram realizados dois storyboards que mostram certas situações que retratam exemplos do uso do aplicativo Hemovida no cotidiano dos usuários.
+Foram realizados dois storyboards que mostram certas situações que retratam exemplos do uso do aplicativo Hemovida no cotidiano dos [usuário](./modelagem/lexico?id=usuário)s.
 
 ## 3. Resultado
 
@@ -40,10 +40,10 @@ Foram realizados dois storyboards que mostram certas situações que retratam ex
 
 | Id | Descrição |
 | -- | --------- |
-| 01 | O  usuário deve ser capaz de traçar uma rota até o hemocentro |
-| 02 | O aplicativo deve mostrar a lista de hemocentros para o usuário |
-| 03 | O usuário deve ser capaz de visualizar as regras para doação de sangue |
-| 04 | O usuário deve ser capaz de avaliar o hemocentro |
+| 01 | O  [usuário](./modelagem/lexico?id=usuário) deve ser capaz de traçar uma rota até o [hemocentro](./modelagem/lexico?id=hemocentro) |
+| 02 | O aplicativo deve mostrar a lista de [hemocentro](./modelagem/lexico?id=hemocentro)s para o [usuário](./modelagem/lexico?id=usuário) |
+| 03 | O [usuário](./modelagem/lexico?id=usuário) deve ser capaz de visualizar as regras para [doação de sangue](./modelagem/lexico?id=doação-de-sangue) |
+| 04 | O [usuário](./modelagem/lexico?id=usuário) deve ser capaz de avaliar o [hemocentro](./modelagem/lexico?id=hemocentro) |
 
 
 

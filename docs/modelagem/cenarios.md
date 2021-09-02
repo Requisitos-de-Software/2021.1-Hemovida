@@ -36,59 +36,59 @@ O objetivo desse documento é apresentar os cenários criados.
 | | |
 | - | :- |
 | Título | Login utilizando o gov.br |
-| Objetivo | Logar no Hemovida para ter acesso a histórico de doações, agendamento, convite à amigos e etc. |
-| Contexto | pré-condição: Possuir cadastro no Meugov.br</br>pós-condição: Usuário logado com acesso liberado às funcionalidades de agendamento, histórico etc. |
-| Atores | Usuário |
+| Objetivo | [Logar](./modelagem/lexico?id=logar) no Hemovida para ter acesso a histórico de doações, agendamento, convite à amigos e etc. |
+| Contexto | pré-condição: Possuir cadastro no Meugov.br</br>pós-condição: [usuário](./modelagem/lexico?id=usuário) logado com acesso liberado às funcionalidades de agendamento, histórico etc. |
+| Atores | [usuário](./modelagem/lexico?id=usuário) |
 | Recursos | Acesso à internet</br>App instalado |
-| Episódios | 1.O usuário com cadastro no gov.br acessa o hemovida</br>2.O usuário não logado acessa a aba Doador</br>3.O usuário não logado seleciona o botão entrar</br>4.O usuário não logado seleciona o campo CPF e digita seu CPF</br>5.O usuário não logado seleciona o botão avançar</br>6. O usuário não logado seleciona o campo senha e digita sua senha</br>7.O usuário não logado seleciona o botão avançar</br> |
+| Episódios | 1.O [usuário](./modelagem/lexico?id=usuário) com cadastro no gov.br acessa o hemovida</br>2.O [usuário](./modelagem/lexico?id=usuário) não logado acessa a aba Doador</br>3.O [usuário](./modelagem/lexico?id=usuário) não logado seleciona o botão entrar</br>4.O [usuário](./modelagem/lexico?id=usuário) não logado seleciona o campo CPF e digita seu CPF</br>5.O [usuário](./modelagem/lexico?id=usuário) não logado seleciona o botão avançar</br>6. O [usuário](./modelagem/lexico?id=usuário) não logado seleciona o campo senha e digita sua senha</br>7.O [usuário](./modelagem/lexico?id=usuário) não logado seleciona o botão avançar</br> |
 | Restrições | - |
-| Exceção | CPF/senha inválidos</br>Usuário fechar aplicativo antes de terminar a ação</br>Internet parar de funcionar durante a ação |
+| Exceção | CPF/senha inválidos</br>[usuário](./modelagem/lexico?id=usuário) fechar aplicativo antes de terminar a ação</br>Internet parar de funcionar durante a ação |
 
-### C02 - Visualizar histórico de doações
+### C02 - [visualizar histórico de doações](./modelagem/lexico?id=visualizar-histórico-de-doações)
 | | |
 | - | :- |
-| Título | Visualizar histórico de doações |
-| Objetivo | O usuário pode visualizar informações sobre doações ja feitas |
-| Contexto | pré-condição: Usuário logado </br>pós-condição: O usuário verá as informações sobre suas doações já feitas |
-| Atores | Usuário |
+| Título | [visualizar histórico de doações](./modelagem/lexico?id=visualizar-histórico-de-doações) |
+| Objetivo | O [usuário](./modelagem/lexico?id=usuário) pode visualizar informações sobre doações ja feitas |
+| Contexto | pré-condição: [usuário](./modelagem/lexico?id=usuário) logado </br>pós-condição: O [usuário](./modelagem/lexico?id=usuário) verá as informações sobre suas doações já feitas |
+| Atores | [usuário](./modelagem/lexico?id=usuário) |
 | Recursos | Acesso à internet |
-| Episódios | 1.O usuário acessa o Hemovida</br>2.O usuário acessa a aba Doador</br>3.O usuário seleciona a opção Minhas doações</br> |
+| Episódios | 1.O [usuário](./modelagem/lexico?id=usuário) acessa o Hemovida</br>2.O [usuário](./modelagem/lexico?id=usuário) acessa a aba Doador</br>3.O [usuário](./modelagem/lexico?id=usuário) seleciona a opção Minhas doações</br> |
 | Restrições | - |
-| Exceção | O usuário não ter feito nenhuma doação</br>Usuário fechar aplicativo antes de terminar a ação</br>Internet parar de funcionar durante a ação |
+| Exceção | O [usuário](./modelagem/lexico?id=usuário) não ter feito nenhuma doação</br>[usuário](./modelagem/lexico?id=usuário) fechar aplicativo antes de terminar a ação</br>Internet parar de funcionar durante a ação |
 
-### C03 - Visualizar campanhas de doação
+### C03 - [visualizar campanhas de doação](./modelagem/lexico?id=visualizar-campanhas-de-doações)
 | | |
 | - | - |
-| Título | Visualizar campanhas de doação |
-| Objetivo | O usuário poder visualizar quais são as campanhas de doação que estão ocorrendo ou já foram finalizadas |
-| Contexto | pré-condição: - </br>pós-condição:Usuário visualiza as campanhas de doação ativas |
-| Atores | Usuário |
+| Título | [visualizar campanhas de doação](./modelagem/lexico?id=visualizar-campanhas-de-doações) |
+| Objetivo | O [usuário](./modelagem/lexico?id=usuário) poder visualizar quais são as campanhas de doação que estão ocorrendo ou já foram finalizadas |
+| Contexto | pré-condição: - </br>pós-condição:[usuário](./modelagem/lexico?id=usuário) visualiza as campanhas de doação ativas |
+| Atores | [usuário](./modelagem/lexico?id=usuário) |
 | Recursos | Acesso à internet |
-| Episódios | 1.O usuário acessa o Hemovida</br>2.O usuário acessa a aba Campanhas</br>3.O usuário seleciona o link da campanha desejada |
+| Episódios | 1.O [usuário](./modelagem/lexico?id=usuário) acessa o Hemovida</br>2.O [usuário](./modelagem/lexico?id=usuário) acessa a aba Campanhas</br>3.O [usuário](./modelagem/lexico?id=usuário) seleciona o link da campanha desejada |
 | Restrições | - |
-| Exceção | Não possuir campanhas para serem divulgadas</br>Usuário fechar aplicativo antes de terminar a ação</br>Internet parar de funcionar durante a ação |
+| Exceção | Não possuir campanhas para serem divulgadas</br>[usuário](./modelagem/lexico?id=usuário) fechar aplicativo antes de terminar a ação</br>Internet parar de funcionar durante a ação |
 
 ### C04 - Agendamento de doação
 | | |
 | - | :- |
 | Título | Agendamento de doação |
-| Objetivo | O usuário agendar uma doação de sangue no hemocentro desejado |
-| Contexto | pré-condição: Usuário logado </br>pós-condição: Agendamento concluído |
-| Atores | Usuário |
+| Objetivo | O [usuário](./modelagem/lexico?id=usuário) agendar uma [doação de sangue](./modelagem/lexico?id=doação-de-sangue) no [hemocentro](./modelagem/lexico?id=hemocentro) desejado |
+| Contexto | pré-condição: [usuário](./modelagem/lexico?id=usuário) logado </br>pós-condição: Agendamento concluído |
+| Atores | [usuário](./modelagem/lexico?id=usuário) |
 | Recursos | Acesso à internet |
-| Episódios | 1.O usuário acessa o Hemovida</br>2.O usuário seleciona o hemocentro desejado</br>3.O usuário seleciona a aba Solicitar agendamento</br>4.O usuário seleciona a data desejada</br>5.O usuário seleciona um dos horários disponiveis daquele dia</br>6.O usuário confirma o agendamento   |
+| Episódios | 1.O [usuário](./modelagem/lexico?id=usuário) acessa o Hemovida</br>2.O [usuário](./modelagem/lexico?id=usuário) seleciona o [hemocentro](./modelagem/lexico?id=hemocentro) desejado</br>3.O [usuário](./modelagem/lexico?id=usuário) seleciona a aba Solicitar agendamento</br>4.O [usuário](./modelagem/lexico?id=usuário) seleciona a data desejada</br>5.O [usuário](./modelagem/lexico?id=usuário) seleciona um dos horários disponiveis daquele dia</br>6.O [usuário](./modelagem/lexico?id=usuário) confirma o agendamento   |
 | Restrições | - |
-| Exceção | O serviço de agendamento estar indisponível</br>Não possuir horários disponiveis no dia selecionado</br>Usuário fechar aplicativo antes de terminar a ação</br>Internet parar de funcionar durante a ação |
+| Exceção | O serviço de agendamento estar indisponível</br>Não possuir horários disponiveis no dia selecionado</br>[usuário](./modelagem/lexico?id=usuário) fechar aplicativo antes de terminar a ação</br>Internet parar de funcionar durante a ação |
 
 ### C05 - Visualizar regras para doação
 | | |
 | - | :- |
 | Título | Visualizar regras para doação |
-| Objetivo | o usuário visualizar quais são as regras e condições básicas para poder realizar a doação de sangue |
-| Contexto | pré-condição: - </br>pós-condição: O usuário visualiza as regras de doação |
-| Atores | Usuário |
+| Objetivo | o [usuário](./modelagem/lexico?id=usuário) visualizar quais são as regras e condições básicas para poder realizar a [doação de sangue](./modelagem/lexico?id=doação-de-sangue) |
+| Contexto | pré-condição: - </br>pós-condição: O [usuário](./modelagem/lexico?id=usuário) visualiza as regras de doação |
+| Atores | [usuário](./modelagem/lexico?id=usuário) |
 | Recursos | - |
-| Episódios | 1.O usuário acessa o Hemovida</br>2.O usuário seleciona a aba Regras |
+| Episódios | 1.O [usuário](./modelagem/lexico?id=usuário) acessa o Hemovida</br>2.O [usuário](./modelagem/lexico?id=usuário) seleciona a aba Regras |
 | Restrições | - |
 | Exceção | - |
 

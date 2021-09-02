@@ -50,18 +50,18 @@
 
 |ID | Persona | Requisito | Tipo de Requisito |
 |:-:|:-|:-|:-|
-| 1 | Victor Hugo | Listar hemocentro | Funcional |
-| 2 | Victor Hugo | Detalhar dados do hemocentro  | Funcional |
+| 1 | Victor Hugo | Listar [hemocentro](./modelagem/lexico?id=hemocentro) | Funcional |
+| 2 | Victor Hugo | Detalhar dados do [hemocentro](./modelagem/lexico?id=hemocentro)  | Funcional |
 | 3 | Victor Hugo | Traçar rota | Funcional |
-| 4 | Victor Hugo | Apresentar Geolocalização dos hemocentros | Funcional |
+| 4 | Victor Hugo | Apresentar Geolocalização dos [hemocentro](./modelagem/lexico?id=hemocentro)s | Funcional |
 | 5 | Victor Hugo | Divulgar campanhas publicitárias | Funcional |
-| 6 | Victor Hugo | Compartilhar campanha via rede social | Funcional |
-| 7 | Victor Hugo | Regras para doação de sangue | Funcional |
+| 6 | Victor Hugo | [compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Funcional |
+| 7 | Victor Hugo | Regras para [doação de sangue](./modelagem/lexico?id=doação-de-sangue) | Funcional |
 | 8 | Victor Hugo | Espaço do doador de sangue | Funcional |
 | 9 | Victor Hugo | Compartilhar localização | Não funcional |
 | 10 | Victor Hugo | Histórico de doações (próprias) | Funcional |
-| 11 | Victor Hugo | Avaliar hemocentro | Funcional |
-| 12 | Victor Hugo | Agendar doação de sangue | Não Funcional |
+| 11 | Victor Hugo | Avaliar [hemocentro](./modelagem/lexico?id=hemocentro) | Funcional |
+| 12 | Victor Hugo | [agendar doação](./modelagem/lexico?id=agendar-doações) de sangue | Não Funcional |
 | 13 | Victor Hugo | Apresentar avisos e alertas | Funcional |
 | 14 | Victor Hugo | Convidar um amigo a doar sangue | Funcional |
 
