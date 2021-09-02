@@ -5,6 +5,7 @@
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 11/08/2021 | 0.1 | João Victor | Criação do documento |
+| 02/09/2021 | 0.2 | Jaime Juan | Adição dos links léxicos |
 
 <div align="justify">
 
@@ -82,12 +83,12 @@ O objetivo desse documento é registrar as ideias e requisitos levantados por me
 | 008 | Ter a opção de [visualizar campanhas de doação](./modelagem/lexico?id=visualizar-campanhas-de-doações) | Requisito Funcional |
 | 009 | Ter a opção de ver notificações sobre doações agendadas | Requisito Funcional |
 | 010 | Ter a opção de solicitar agendamento de doação | Requisito Funcional |
-| 011 | Ter a opção de ver a lista de [hemocentro](./modelagem/lexico?id=hemocentro)s próximos a localização | Requisito Funcional |
-| 012 | Ter a opção de escolher a localização para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
-| 013 | Ter a opção de usar a localização do dispositivo para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
-| 014 | Ter a opção de ver informações sobre os [hemocentro](./modelagem/lexico?id=hemocentro)s (telefones, horário de atendimento, site... ) | Requisito Funcional |
+| 011 | Ter a opção de ver a lista de [hemocentros](./modelagem/lexico?id=hemocentro) próximos a localização | Requisito Funcional |
+| 012 | Ter a opção de escolher a localização para procurar [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Requisito Funcional |
+| 013 | Ter a opção de usar a localização do dispositivo para procurar [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Requisito Funcional |
+| 014 | Ter a opção de ver informações sobre os [hemocentros](./modelagem/lexico?id=hemocentro) (telefones, horário de atendimento, site... ) | Requisito Funcional |
 | 015 | Ter a opção de ver rotas para locomoção ao [hemocentro](./modelagem/lexico?id=hemocentro) | Requisito Funcional |
-| 016 | Ter a opção de visualizar um mapa com a localização dos [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
+| 016 | Ter a opção de visualizar um mapa com a localização dos [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Requisito Funcional |
 | 017 | Ter a opção de ver a data da ultima doação feita | Requisito Funcional |
 | 018 | Ter a opção de ver a data da próxima doação | Requisito Funcional |
 | 019 | Ter a opção de notificar o [usuário](./modelagem/lexico?id=usuário) sobre campanhas de doação | Requisito Funcional |

@@ -5,10 +5,12 @@
 | :-: | :-: | :-: | :-: |
 | 17/08/2021 | 0.1 | Jaime Juan e Victor Hugo | Criação do documento |
 | 18/08/2021 | 0.2 | Jaime Juan e Victor Hugo | Finalização da Tabela de Priorização |
+| 02/09/2021 | 0.3 | Jaime Juan | Adição dos links léxicos |
+
 <div align="justify">
 
 ## 1. Introdução
-Técnica de priorização de requisitos "First Things First" tem como objetivo estabelecer uma ordem relativa de prioridade em relação à implementação de certas funcionalidades, considerando fatores que impactam na disponibilização delas aos [usuário](./modelagem/lexico?id=usuário)s da aplicação.
+Técnica de priorização de requisitos "First Things First" tem como objetivo estabelecer uma ordem relativa de prioridade em relação à implementação de certas funcionalidades, considerando fatores que impactam na disponibilização delas aos [usuários](./modelagem/lexico?id=usuário) da aplicação.
 
 ## 2. Metologia
 Nessa prática de priorização, é construída uma tabela de forma que equilibre os posionamentos do cliente e do desenvolvedor. Para isso, devem ser seguidos 8 (oito) passos:
@@ -43,12 +45,12 @@ Nessa prática de priorização, é construída uma tabela de forma que equilibr
 | RF08 | Ter a opção de [visualizar campanhas de doação](./modelagem/lexico?id=visualizar-campanhas-de-doações) | Brainstorm |
 | RF09 | Ter a opção de ver notificações sobre doações agendadas | Brainstorm |
 | RF10 | Ter a opção de solicitar agendamento de doação | Brainstorm |
-| RF11 | Ter a opção de ver a lista de [hemocentro](./modelagem/lexico?id=hemocentro)s próximos a localização | Brainstorm |
-| RF12 | Ter a opção de escolher a localização para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
-| RF13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
+| RF11 | Ter a opção de ver a lista de [hemocentros](./modelagem/lexico?id=hemocentro) próximos a localização | Brainstorm |
+| RF12 | Ter a opção de escolher a localização para procurar [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Brainstorm |
+| RF13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Brainstorm |
 | RF14 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar informações (telefone, horário de atendimento, site, endereço ...) sobre o [hemocentro](./modelagem/lexico?id=hemocentro) selecionado | Observação |
 | RF15 | Ter a opção de ver rotas para locomoção ao [hemocentro](./modelagem/lexico?id=hemocentro) | Brainstorm |
-| RF16 | Ter a opção de visualizar um mapa com a localização dos [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
+| RF16 | Ter a opção de visualizar um mapa com a localização dos [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Brainstorm |
 | RF17 | Ter a opção de ver a data da ultima doação feita | Brainstorm |
 | RF18 | Ter a opção de ver a data da próxima doação | Brainstorm |
 | RF19 | Ter a opção de notificar o [usuário](./modelagem/lexico?id=usuário) sobre campanhas de doação | Brainstorm |
@@ -60,7 +62,7 @@ Nessa prática de priorização, é construída uma tabela de forma que equilibr
 | RF25 | O [usuário](./modelagem/lexico?id=usuário) deve poder compartilhar a localização do [hemocentro](./modelagem/lexico?id=hemocentro) mais próximo de sua localização | Observação |
 | RF26 | O [usuário](./modelagem/lexico?id=usuário) deve ser capaz de avaliar o [hemocentro](./modelagem/lexico?id=hemocentro) | StoryBoard |
 | RF27 | Detalhar dados do [hemocentro](./modelagem/lexico?id=hemocentro) | Introspecção |
-| RF28 | [compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Introspecção |
+| RF28 | [Compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Introspecção |
 | RN01 | O aplicativo deve ter um layout responsivo para variados tamanhos de telas | Brainstorm |
 | RN02 | O aplicativo deve ser leve (não ser maior que 100MB) | Brainstorm |
 | RN03 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar informações) | Brainstorm |

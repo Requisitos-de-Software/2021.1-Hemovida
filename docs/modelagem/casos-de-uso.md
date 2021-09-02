@@ -6,6 +6,8 @@
 | :-:|:-:|:-:|:-: |
 | 24/08/2021 | 0.1 | Jaime Juan | Criação do documento |
 | 25/08/2021 | 0.2 | João Victor | Revisão do documento |
+| 02/09/2021 | 0.3 | Jaime Juan | Adição dos links léxicos |
+
 
 <div align="justify">
 

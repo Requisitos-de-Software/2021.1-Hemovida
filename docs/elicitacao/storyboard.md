@@ -5,6 +5,7 @@
 | :-:|:-:|:-:|:-: |
 | 12/08/2021 | 0.1 | Guilherme Braz | Criação do documento |
 | 12/08/2021 | 0.2 | João Victor | Revisão do documento |
+| 02/09/2021 | 0.3 | Jaime Juan | Adição dos links léxicos |
 
 <div align="justify">
 
@@ -13,7 +14,7 @@ Storytelling é a técnica que usa uma sequência de cenas para mostrar situaç�
 
 ## 2. Metodologia 
 
-Foram realizados dois storyboards que mostram certas situações que retratam exemplos do uso do aplicativo Hemovida no cotidiano dos [usuário](./modelagem/lexico?id=usuário)s.
+Foram realizados dois storyboards que mostram certas situações que retratam exemplos do uso do aplicativo Hemovida no cotidiano dos [usuários](./modelagem/lexico?id=usuário).
 
 ## 3. Resultado
 
@@ -41,7 +42,7 @@ Foram realizados dois storyboards que mostram certas situações que retratam ex
 | Id | Descrição |
 | -- | --------- |
 | 01 | O  [usuário](./modelagem/lexico?id=usuário) deve ser capaz de traçar uma rota até o [hemocentro](./modelagem/lexico?id=hemocentro) |
-| 02 | O aplicativo deve mostrar a lista de [hemocentro](./modelagem/lexico?id=hemocentro)s para o [usuário](./modelagem/lexico?id=usuário) |
+| 02 | O aplicativo deve mostrar a lista de [hemocentros](./modelagem/lexico?id=hemocentro) para o [usuário](./modelagem/lexico?id=usuário) |
 | 03 | O [usuário](./modelagem/lexico?id=usuário) deve ser capaz de visualizar as regras para [doação de sangue](./modelagem/lexico?id=doação-de-sangue) |
 | 04 | O [usuário](./modelagem/lexico?id=usuário) deve ser capaz de avaliar o [hemocentro](./modelagem/lexico?id=hemocentro) |
 

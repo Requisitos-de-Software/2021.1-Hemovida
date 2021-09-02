@@ -5,6 +5,8 @@
 | :-: | :-: | :-: | :-: |
 | 20/08/2021 | 0.1 | Guilherme Braz | Criação do documento |
 | 20/08/2021 | 0.2 | João Victor | Revisão do documento |
+| 02/09/2021 | 0.3 | Jaime Juan | Adição dos links léxicos |
+
 <div align="justify">
 
 ## 1. Introdução
@@ -35,12 +37,12 @@ Como falado brevemente na introdução, o método MoScoW é utilizado para defin
 | RF08 | Ter a opção de [visualizar campanhas de doação](./modelagem/lexico?id=visualizar-campanhas-de-doações) | Must |
 | RF09 | Ter a opção de ver notificações sobre doações agendadas | Could |
 | RF10 | Ter a opção de solicitar agendamento de doação | Should |
-| RF11 | Ter a opção de ver a lista de [hemocentro](./modelagem/lexico?id=hemocentro)s próximos a localização | Could |
-| RF12 | Ter a opção de escolher a localização para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Could |
-| RF13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Could |
+| RF11 | Ter a opção de ver a lista de [hemocentros](./modelagem/lexico?id=hemocentro) próximos a localização | Could |
+| RF12 | Ter a opção de escolher a localização para procurar [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Could |
+| RF13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Could |
 | RF14 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar informações (telefone, horário de atendimento, site, endereço ...) sobre o [hemocentro](./modelagem/lexico?id=hemocentro) selecionado | Must |
 | RF15 | Ter a opção de ver rotas para locomoção ao [hemocentro](./modelagem/lexico?id=hemocentro) | Could |
-| RF16 | Ter a opção de visualizar um mapa com a localização dos [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Won't |
+| RF16 | Ter a opção de visualizar um mapa com a localização dos [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Won't |
 | RF17 | Ter a opção de ver a data da ultima doação feita | Must |
 | RF18 | Ter a opção de ver a data da próxima doação | Must |
 | RF19 | Ter a opção de notificar o [usuário](./modelagem/lexico?id=usuário) sobre campanhas de doação | Could |
@@ -52,7 +54,7 @@ Como falado brevemente na introdução, o método MoScoW é utilizado para defin
 | RF25 | O [usuário](./modelagem/lexico?id=usuário) deve poder compartilhar a localização do [hemocentro](./modelagem/lexico?id=hemocentro) mais próximo de sua localização | Could |
 | RF26 | O [usuário](./modelagem/lexico?id=usuário) deve ser capaz de avaliar o [hemocentro](./modelagem/lexico?id=hemocentro) | Could |
 | RF27 | Detalhar dados do [hemocentro](./modelagem/lexico?id=hemocentro) | Should |
-| RF28 | [compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Should |
+| RF28 | [Compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Should |
 | RN29 | O aplicativo deve ter um layout responsivo para variados tamanhos de telas | Must |
 | RN30 | O aplicativo deve ser leve (não ser maior que 100MB) | Should |
 | RN31 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar informações) | Should |

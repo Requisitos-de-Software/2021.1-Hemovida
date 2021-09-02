@@ -4,6 +4,8 @@
 | Data | Versão | Autor | Descrição |
 | :-: | :-: | :-: | :-: |
 | 14/08/2021 | 0.1 | Lorrayne Cardozo | Criação do documento |
+| 02/09/2021 | 0.2 | Jaime Juan | Adição dos links léxicos |
+
 <div align="justify">
 
 ## 1. Introdução
@@ -30,12 +32,12 @@ A equipe utilizou diferentes técnicas de elicitação para levantar e concluir,
 | 08 | Ter a opção de [visualizar campanhas de doação](./modelagem/lexico?id=visualizar-campanhas-de-doações) | Brainstorm |
 | 09 | Ter a opção de ver notificações sobre doações agendadas | Brainstorm |
 | 10 | Ter a opção de solicitar agendamento de doação | Brainstorm |
-| 11 | Ter a opção de ver a lista de [hemocentro](./modelagem/lexico?id=hemocentro)s próximos a localização | Brainstorm |
-| 12 | Ter a opção de escolher a localização para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
-| 13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
+| 11 | Ter a opção de ver a lista de [hemocentros](./modelagem/lexico?id=hemocentro) próximos a localização | Brainstorm |
+| 12 | Ter a opção de escolher a localização para procurar [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Brainstorm |
+| 13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Brainstorm |
 | 14 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar informações (telefone, horário de atendimento, site, endereço ...) sobre o [hemocentro](./modelagem/lexico?id=hemocentro) selecionado | Observação |
 | 15 | Ter a opção de ver rotas para locomoção ao [hemocentro](./modelagem/lexico?id=hemocentro) | Brainstorm |
-| 16 | Ter a opção de visualizar um mapa com a localização dos [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Brainstorm |
+| 16 | Ter a opção de visualizar um mapa com a localização dos [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Brainstorm |
 | 17 | Ter a opção de ver a data da ultima doação feita | Brainstorm |
 | 18 | Ter a opção de ver a data da próxima doação | Brainstorm |
 | 19 | Ter a opção de notificar o [usuário](./modelagem/lexico?id=usuário) sobre campanhas de doação | Brainstorm |
@@ -47,7 +49,7 @@ A equipe utilizou diferentes técnicas de elicitação para levantar e concluir,
 | 25 | O [usuário](./modelagem/lexico?id=usuário) deve poder compartilhar a localização do [hemocentro](./modelagem/lexico?id=hemocentro) mais próximo de sua localização | Observação |
 | 26 | O [usuário](./modelagem/lexico?id=usuário) deve ser capaz de avaliar o [hemocentro](./modelagem/lexico?id=hemocentro) | StoryBoard |
 | 27 | Detalhar dados do [hemocentro](./modelagem/lexico?id=hemocentro) | Introspecção |
-| 28 | [compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Introspecção |
+| 28 | [Compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Introspecção |
 
 
 ## 4. Requisitos Não-Funcionais

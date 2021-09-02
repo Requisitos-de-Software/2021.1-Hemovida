@@ -1,9 +1,10 @@
 # <center> Introspecção
 
 ## Histórico de versão
-| Versão | Data | Modificação | Autor |
+| Data | Versão | Modificação | Autor |
 |--|--|--|--|
-| 0.1 | 14/08/2021 | Criação do documento e introdução dos conceitos | Victor Hugo |
+| 14/08/2021 | 0.1 | Criação do documento e introdução dos conceitos | Victor Hugo |
+| 02/09/2021 | 0.2 | Jaime Juan | Adição dos links léxicos |
 
 <div align="justify">
 
@@ -53,7 +54,7 @@
 | 1 | Victor Hugo | Listar [hemocentro](./modelagem/lexico?id=hemocentro) | Funcional |
 | 2 | Victor Hugo | Detalhar dados do [hemocentro](./modelagem/lexico?id=hemocentro)  | Funcional |
 | 3 | Victor Hugo | Traçar rota | Funcional |
-| 4 | Victor Hugo | Apresentar Geolocalização dos [hemocentro](./modelagem/lexico?id=hemocentro)s | Funcional |
+| 4 | Victor Hugo | Apresentar Geolocalização dos [hemocentros](./modelagem/lexico?id=hemocentro) | Funcional |
 | 5 | Victor Hugo | Divulgar campanhas publicitárias | Funcional |
 | 6 | Victor Hugo | [compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Funcional |
 | 7 | Victor Hugo | Regras para [doação de sangue](./modelagem/lexico?id=doação-de-sangue) | Funcional |
@@ -61,7 +62,7 @@
 | 9 | Victor Hugo | Compartilhar localização | Não funcional |
 | 10 | Victor Hugo | Histórico de doações (próprias) | Funcional |
 | 11 | Victor Hugo | Avaliar [hemocentro](./modelagem/lexico?id=hemocentro) | Funcional |
-| 12 | Victor Hugo | [agendar doação](./modelagem/lexico?id=agendar-doações) de sangue | Não Funcional |
+| 12 | Victor Hugo | [Agendar doação](./modelagem/lexico?id=agendar-doações) de sangue | Não Funcional |
 | 13 | Victor Hugo | Apresentar avisos e alertas | Funcional |
 | 14 | Victor Hugo | Convidar um amigo a doar sangue | Funcional |
 

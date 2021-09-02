@@ -5,6 +5,7 @@
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 11/08/2021 | 0.1 | João Victor | Criação do documento |
+| 02/09/2021 | 0.2 | Jaime Juan | Adição dos links léxicos |
 
 <div align="justify">
 
@@ -26,10 +27,10 @@ O objetivo desse documento é listar os requisitos elicitados após a aplicaçã
 | -- | --------- | ----------------- |
 | 001 | O [usuário](./modelagem/lexico?id=usuário) deve poder se [cadastrar](./modelagem/lexico?id=cadastrar) pelo Meugov.br | Requisito Funcional |
 | 002 | O [usuário](./modelagem/lexico?id=usuário) deve poder realizar o login pelo Meugov.br | Requisito Funcional |
-| 003 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar uma lista com os [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
-| 004 | O [usuário](./modelagem/lexico?id=usuário) deve poder escolher uma localização para ver [hemocentro](./modelagem/lexico?id=hemocentro)s próximos dessa localização | Requisito Funcional |
-| 005 | O [usuário](./modelagem/lexico?id=usuário) deve poder usar sua [localização atual](./modelagem/lexico?id=localização-atual) para ver [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
-| 006 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar um mapa com as localizações de [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Requisito Funcional |
+| 003 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar uma lista com os [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Requisito Funcional |
+| 004 | O [usuário](./modelagem/lexico?id=usuário) deve poder escolher uma localização para ver [hemocentros](./modelagem/lexico?id=hemocentro) próximos dessa localização | Requisito Funcional |
+| 005 | O [usuário](./modelagem/lexico?id=usuário) deve poder usar sua [localização atual](./modelagem/lexico?id=localização-atual) para ver [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Requisito Funcional |
+| 006 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar um mapa com as localizações de [hemocentros](./modelagem/lexico?id=hemocentro) próximos | Requisito Funcional |
 | 007 | O [usuário](./modelagem/lexico?id=usuário) deve poder selecionar um [hemocentro](./modelagem/lexico?id=hemocentro) da lista | Requisito Funcional |
 | 008 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar informações (telefone, horário de atendimento, site, endereço ...) sobre o [hemocentro](./modelagem/lexico?id=hemocentro) selecionado | Requisito Funcional |
 | 009 | O [usuário](./modelagem/lexico?id=usuário) deve poder solicitar agendamento no [hemocentro](./modelagem/lexico?id=hemocentro) selecionado | Requisito Funcional |

@@ -6,6 +6,7 @@
 | --- | --- | --- | --- |
 | 23/08/2021 | 1.0 | Guilherme Braz, Victor Hugo  | Criação do documento |
 
+
 <div align="justify">
 
 ## Introdução 
