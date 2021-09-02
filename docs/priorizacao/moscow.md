@@ -26,33 +26,33 @@ Como falado brevemente na introdução, o método MoScoW é utilizado para defin
 | ID | Requisito | MoSCoW |
 | :-: | :- | :- |
 | RF01 | Ter a opção de login pelo Meugov.br | Must |
-| RF02 | Ter a opção de [logout](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=logout) | Must |
+| RF02 | Ter a opção de [logout](./modelagem/lexico?id=logout) | Must |
 | RF03 | Ter a opção de criar conta pelo Meugov.br | Must |
-| RF04 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar regras e intruções para a realização da doação | Should |
+| RF04 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar regras e intruções para a realização da doação | Should |
 | RF05 | Ter a opção de convidar um amigo | Should |
-| RF06 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar seus dados pessoais (nome, email, telefone, CPF, CNS, tipo de conteúdo) | Must |
-| RF07 | Ter a opção de [visualizar histórico de doações](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=visualizar-histórico-de-doações) | Must |
-| RF08 | Ter a opção de [visualizar campanhas de doação](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=visualizar-campanhas-de-doações) | Must |
+| RF06 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar seus dados pessoais (nome, email, telefone, CPF, CNS, tipo de conteúdo) | Must |
+| RF07 | Ter a opção de [visualizar histórico de doações](./modelagem/lexico?id=visualizar-histórico-de-doações) | Must |
+| RF08 | Ter a opção de [visualizar campanhas de doação](./modelagem/lexico?id=visualizar-campanhas-de-doações) | Must |
 | RF09 | Ter a opção de ver notificações sobre doações agendadas | Could |
 | RF10 | Ter a opção de solicitar agendamento de doação | Should |
-| RF11 | Ter a opção de ver a lista de [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos a localização | Could |
-| RF12 | Ter a opção de escolher a localização para procurar [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Could |
-| RF13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Could |
-| RF14 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar informações (telefone, horário de atendimento, site, endereço ...) sobre o [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) selecionado | Must |
-| RF15 | Ter a opção de ver rotas para locomoção ao [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) | Could |
-| RF16 | Ter a opção de visualizar um mapa com a localização dos [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos | Won't |
+| RF11 | Ter a opção de ver a lista de [hemocentro](./modelagem/lexico?id=hemocentro)s próximos a localização | Could |
+| RF12 | Ter a opção de escolher a localização para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Could |
+| RF13 | Ter a opção de usar a localização do dispositivo para procurar [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Could |
+| RF14 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar informações (telefone, horário de atendimento, site, endereço ...) sobre o [hemocentro](./modelagem/lexico?id=hemocentro) selecionado | Must |
+| RF15 | Ter a opção de ver rotas para locomoção ao [hemocentro](./modelagem/lexico?id=hemocentro) | Could |
+| RF16 | Ter a opção de visualizar um mapa com a localização dos [hemocentro](./modelagem/lexico?id=hemocentro)s próximos | Won't |
 | RF17 | Ter a opção de ver a data da ultima doação feita | Must |
 | RF18 | Ter a opção de ver a data da próxima doação | Must |
-| RF19 | Ter a opção de notificar o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) sobre campanhas de doação | Could |
-| RF20 | Ter a opção de notificar o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) sobre a data de sua próxima doação | Should |
-| RF21 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder selecionar um [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) da lista | Should |
-| RF22 | O sistema deve dar opções de aplicativos de rotas para o [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) | Won't |
-| RF23 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar as notificações recebidas | Must |
-| RF24 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder visualizar dados sobre o aplicativo (versão, quem desenvolveu ...) | Must |
-| RF25 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve poder compartilhar a localização do [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) mais próximo de sua localização | Could |
-| RF26 | O [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) deve ser capaz de avaliar o [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) | Could |
-| RF27 | Detalhar dados do [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro) | Should |
-| RF28 | [compartilhar campanha](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Should |
+| RF19 | Ter a opção de notificar o [usuário](./modelagem/lexico?id=usuário) sobre campanhas de doação | Could |
+| RF20 | Ter a opção de notificar o [usuário](./modelagem/lexico?id=usuário) sobre a data de sua próxima doação | Should |
+| RF21 | O [usuário](./modelagem/lexico?id=usuário) deve poder selecionar um [hemocentro](./modelagem/lexico?id=hemocentro) da lista | Should |
+| RF22 | O sistema deve dar opções de aplicativos de rotas para o [usuário](./modelagem/lexico?id=usuário) | Won't |
+| RF23 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar as notificações recebidas | Must |
+| RF24 | O [usuário](./modelagem/lexico?id=usuário) deve poder visualizar dados sobre o aplicativo (versão, quem desenvolveu ...) | Must |
+| RF25 | O [usuário](./modelagem/lexico?id=usuário) deve poder compartilhar a localização do [hemocentro](./modelagem/lexico?id=hemocentro) mais próximo de sua localização | Could |
+| RF26 | O [usuário](./modelagem/lexico?id=usuário) deve ser capaz de avaliar o [hemocentro](./modelagem/lexico?id=hemocentro) | Could |
+| RF27 | Detalhar dados do [hemocentro](./modelagem/lexico?id=hemocentro) | Should |
+| RF28 | [compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Should |
 | RN29 | O aplicativo deve ter um layout responsivo para variados tamanhos de telas | Must |
 | RN30 | O aplicativo deve ser leve (não ser maior que 100MB) | Should |
 | RN31 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar informações) | Should |

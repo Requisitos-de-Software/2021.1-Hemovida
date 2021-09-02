@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-Personas são personagens fictícios criados para simular um grupo [usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário) do sistema caracterizados principalmente por seus objetivos, podendo estar incluídos stakeholders ou um anti-[usuário](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=usuário). Inicialmente, são criadas aproximações razoáveis até que se torne uma equipe admissível de personas.
+Personas são personagens fictícios criados para simular um grupo [usuário](./modelagem/lexico?id=usuário) do sistema caracterizados principalmente por seus objetivos, podendo estar incluídos stakeholders ou um anti-[usuário](./modelagem/lexico?id=usuário). Inicialmente, são criadas aproximações razoáveis até que se torne uma equipe admissível de personas.
 
 Courage e Baxter (2005) listaram as seguintes características que podem ser usadas para definir uma persona:
 * Identidade: a persona deve ter nome, sobrenome e idade.
@@ -36,7 +36,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | Escolaridade: | Ensino médio completo |
 | Tarefas | Mariana mora sozinha e possui uma pequena loja de roupas em sua cidade, em que trabalha de segunda a sábado. No seu tempo livre, costuma ir para a academia, sair com os amigos e visitar a família. |
 | Objetivos: | Tem o objeto de expandir sua loja e comprar um carro, além de continuar sendo doadora de sangue. |
-| Expectativas: | Mariana é doadora de sangue desde seus 18 anos e, eventualmente, viaja para visitar família e amigos e procura [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s próximos para realizar suas doações. Também tem a curiosidade de saber algumas informações como, por exemplo, quantas vezes já doou e qual seu tipo sanguíneo. |
+| Expectativas: | Mariana é doadora de sangue desde seus 18 anos e, eventualmente, viaja para visitar família e amigos e procura [hemocentro](./modelagem/lexico?id=hemocentro)s próximos para realizar suas doações. Também tem a curiosidade de saber algumas informações como, por exemplo, quantas vezes já doou e qual seu tipo sanguíneo. |
 
 ### 3.2. Persona Secundária
 | | |
@@ -49,7 +49,7 @@ O presente documento tem o objetivo de apresentar a equipe de personas do aplica
 | Escolaridade: | Ensino superior completo |
 | Tarefas | João mora com sua esposa e trabalha em um hospital particular da sua cidade. No seu tempo livre, gosta de viajar para visitar sua família, que mora na cidade vizinha. |
 | Objetivos: | Pretende comprar uma casa, além de doar sangue pela primeira vez. |
-| Expectativas: | João nunca doou sangue, mas planeja se tornar um doador em breve. Para isso, se informará por meio da internet quanto aos [hemocentro](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./modelagem/lexico?id=hemocentro)s mais próximos da sua localização e dos pré-requisitos para que possa doar sangue. |
+| Expectativas: | João nunca doou sangue, mas planeja se tornar um doador em breve. Para isso, se informará por meio da internet quanto aos [hemocentro](./modelagem/lexico?id=hemocentro)s mais próximos da sua localização e dos pré-requisitos para que possa doar sangue. |
 
 ### 3.3. Antipersona
 | | |
