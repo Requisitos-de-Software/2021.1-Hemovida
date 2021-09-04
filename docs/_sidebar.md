@@ -28,6 +28,7 @@
   - [Especificação Suplementar](./modelagem/especificacao_suplementar.md)
   - [Cenários](./modelagem/cenarios.md)
   - [Backlog do Produto](./modelagem/backlog.md)
+  - [NFR Framework](./modelagem/nfr.md)
 
 - Análise
   - **Verificação**
