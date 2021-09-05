@@ -1,4 +1,4 @@
-# <center>NFR
+# <center>NFR Framework
 
 
 ## Histórico de versão
@@ -10,7 +10,7 @@
 <div align="justify">
 
 ## Metodologia
-NFR é uma abordagem para ajudar na representação e análise de requisitos não-funcionais do sistema e são expressados através do SIG.
+O NFR Framework é uma abordagem para ajudar na representação e análise de requisitos não-funcionais do sistema e são expressados através do SIG.
 Sendo Softgoal Interdependency Graph (SIG) um grafo que representa a interdependência e relacionamento de softgoals. Os sofgoals São utilizados para representar requisitos não-funcionais, e são objetivos que ainda não estão claros, a qual não se sabe se a mesma será cumprida ou não, sendo eles dividos em: softgoals NFR, softgoals de operacionalização e softgoals de afirmação.[1][2].
 
 ### Legenda
