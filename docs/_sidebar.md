@@ -36,6 +36,7 @@
     - [Personas](./analise/verificacao/personas.md)
     - [Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
     - [First Things First](./analise/verificacao/verificacao_ftf.md)
+    - [NFR Framework](./analise/verificacao/verificacao_nfr.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
