@@ -17,7 +17,7 @@ Sendo Softgoal Interdependency Graph (SIG) um grafo que representa a interdepend
 
 <p align='left'>
     <img src="images/legendaNFR.png" width = "auto" height="420">
-    <figcaption align='left'>
+    <figcaption align='center'>
         <b>Figura 1: Legenda NFR</b>
         <br>
         <small>Fonte: Autor</small>
