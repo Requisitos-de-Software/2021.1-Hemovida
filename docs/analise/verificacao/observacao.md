@@ -27,7 +27,7 @@ A verificação do documento Observação será feita de acordo com a metodologi
 | 5 | A ortografia do documento está correta? |✅|
 
 ## 5. Conclusão
-Após a análise do documento de Observação, conclui-se que o documento não apresenta irregularidades, tendo em vista que 100% dos critérios, sendo 5 no total, foram atendidos.
+Após a análise do documento de Observação, conclui-se que o documento não apresenta irregularidades, tendo em vista que 100% do total de 5 critérios foram atendidos.
 
 ## 6. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
