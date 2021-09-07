@@ -29,7 +29,7 @@ A verificação do documento Brainstorm será feita de acordo com a metodologia 
 | 7 | A bibliografia utilizada na criação do documento foi descrita? | ✅ |
 
 ## 5. Conclusão
-Após a análise do Brainstorm, conclui-se que o documento não apresenta irregularidades.
+Após a análise do Brainstorm, conclui-se que o documento não apresenta irregularidades, tendo em vista que 100% do total de 7 critérios foram atendidos.
 
 ## 6. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

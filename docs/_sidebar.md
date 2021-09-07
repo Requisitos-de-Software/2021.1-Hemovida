@@ -33,8 +33,8 @@
   - **Verificação**
     - [MoSCoW](./analise/verificacao/moscow.md)
     - [Personas](./analise/verificacao/personas.md)
-    - [Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
-    - [First Things First](./analise/verificacao/verificacao_ftf.md)
+    - [Bainstorming](./analise/verificacao/brainstorm.md)
+    - [First Things First](./analise/verificacao/ftf.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
