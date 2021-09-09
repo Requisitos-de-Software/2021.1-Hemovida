@@ -26,7 +26,7 @@ A verificação do documento First Things First será feita de acordo com a meto
 | 4 | Os cálculos estão condizentes? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## 5. Conclusão
-Após a análise do First Things First, conclui-se que o documento não apresenta irregularidades.
+Após a análise do First Things First, conclui-se que o documento não apresenta irregularidades, tendo em vista que 100% do total de 4 critérios foram atendidos.
 
 ## 6. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
