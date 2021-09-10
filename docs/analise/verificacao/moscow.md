@@ -1,4 +1,4 @@
-# <center> Verificação - MoSCoW
+# <center> Verificação do MoSCoW
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

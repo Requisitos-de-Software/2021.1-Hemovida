@@ -1,4 +1,4 @@
-# <center> Verificação - Especificação Suplementar
+# <center> Verificação da Especificação Suplementar
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

@@ -37,7 +37,7 @@
     - [Bainstorm](./analise/verificacao/brainstorm.md)
     - [First Things First](./analise/verificacao/ftf.md)
     - [Storytelling](./analise/verificacao/storytelling.md)
-    - [Observação](./analise/verificacao/obervacao.md)
+    - [Observação](./analise/verificacao/observacao.md)
     - [5W2H](./analise/verificacao/5W2H.md)
     - [Especificação Suplementar](./analise/verificacao/especificacao_suplementar.md)
 
