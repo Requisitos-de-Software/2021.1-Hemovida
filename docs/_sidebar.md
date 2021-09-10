@@ -38,6 +38,8 @@
     - [First Things First](./analise/verificacao/ftf.md)
     - [Storytelling](./analise/verificacao/storytelling.md)
     - [Observação](./analise/verificacao/obervacao.md)
+    - [5W2H](./analise/verificacao/5W2H.md)
+    - [Especificação Suplementar](./analise/verificacao/especificacao_suplementar.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
