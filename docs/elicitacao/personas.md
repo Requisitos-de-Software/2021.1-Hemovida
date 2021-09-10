@@ -11,7 +11,7 @@
 
 ## 1. Introdução
 
-Personas são personagens fictícios criados para simular um grupo [usuário](./modelagem/lexico?id=usuário) do sistema caracterizados principalmente por seus objetivos, podendo estar incluídos stakeholders ou um anti-[usuário](./modelagem/lexico?id=usuário). Inicialmente, são criadas aproximações razoáveis até que se torne uma equipe admissível de personas.
+Personas são personagens fictícios criados para simular um grupo [usuário](./modelagem/lexico?id=usuário) do sistema caracterizados principalmente por seus objetivos, podendo estar incluídos stakeholders ou um anti-usuário. Inicialmente, são criadas aproximações razoáveis até que se torne uma equipe admissível de personas.
 
 Courage e Baxter (2005) listaram as seguintes características que podem ser usadas para definir uma persona:
 * Identidade: a persona deve ter nome, sobrenome e idade.

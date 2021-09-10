@@ -56,7 +56,7 @@
 | 3 | Victor Hugo | Traçar rota | Funcional |
 | 4 | Victor Hugo | Apresentar Geolocalização dos [hemocentros](./modelagem/lexico?id=hemocentro) | Funcional |
 | 5 | Victor Hugo | Divulgar campanhas publicitárias | Funcional |
-| 6 | Victor Hugo | [compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Funcional |
+| 6 | Victor Hugo | [Compartilhar campanha](./modelagem/lexico?id=compartilhar-campanha-de-doação) via rede social | Funcional |
 | 7 | Victor Hugo | Regras para [doação de sangue](./modelagem/lexico?id=doação-de-sangue) | Funcional |
 | 8 | Victor Hugo | Espaço do doador de sangue | Funcional |
 | 9 | Victor Hugo | Compartilhar localização | Não funcional |
