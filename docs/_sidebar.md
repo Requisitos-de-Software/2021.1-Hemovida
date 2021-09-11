@@ -40,6 +40,7 @@
     - [Observação](./analise/verificacao/observacao.md)
     - [5W2H](./analise/verificacao/5W2H.md)
     - [Especificação Suplementar](./analise/verificacao/especificacao_suplementar.md)
+    - [Léxicos](./analise/verificacao/lexicos.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
