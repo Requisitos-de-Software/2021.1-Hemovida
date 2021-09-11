@@ -33,9 +33,10 @@
 - Análise
   - **Verificação**
     - [5W2H](./analise/verificacao/5W2H.md)
+    - [Rich Picture](./analise/verificacao/verifica_richpicture.md)
     - [Personas](./analise/verificacao/personas.md)
     - [Observação](./analise/verificacao/observacao.md)
-    - [Bainstorm](./analise/verificacao/brainstorm.md)
+    - [Brainstorm](./analise/verificacao/brainstorm.md)
     - [Storytelling](./analise/verificacao/storytelling.md)
     - [First Things First](./analise/verificacao/ftf.md)
     - [MoSCoW](./analise/verificacao/moscow.md)
