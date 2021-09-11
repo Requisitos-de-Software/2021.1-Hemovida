@@ -42,6 +42,7 @@
     - [NFR Framework](./analise/verificacao/verificacao_nfr.md)
     - [Especificação Suplementar](./analise/verificacao/especificacao_suplementar.md)
     - [Léxicos](./analise/verificacao/lexicos.md)
+    - [Introspecção](./analise/verificacao/verifica_introspeccao.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
