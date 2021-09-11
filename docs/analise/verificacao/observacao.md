@@ -12,7 +12,7 @@ A verificação de um documento visa analisar um conjunto de artefatos, para val
 * Inspetora: Lorrayne Cardozo
 
 ## 2. Objetivo
-O objetivo do presente documento é registrar a verificação do documento [Observação](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/observacao).
+O objetivo do presente documento é registrar a verificação do documento [Observação](./elicitacao/observacao).
 
 ## 3. Metodologia
 A verificação do documento Observação será feita de acordo com a metodologia de checklist, em que cada critério será avaliado com o símbolo ✅ quando o documento atender ao aspecto exigido, ou com o simbolo ❌ quando não atendê-lo.
