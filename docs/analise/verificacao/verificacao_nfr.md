@@ -14,7 +14,7 @@ Foi realizado uma tabela com vários questionários com `Checklist`, aplicando a
 
 ## 3. Questionário
 | ID | Descrição | Usabilidade | Compatibilidade | Desempenho | Confiabilidade
-| :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 01 | O fluxo do diagrama está bem representado? | ✅ | ✅ | ✅ | ✅
 | 02 | Os softgoals condizem com o contexto? | ✅ | ✅ | ✅ | ✅
 | 03 | Existem softgoals suficientes no diagrama para representar o contexto? | ✅ | ✅ | ✅ | ✅

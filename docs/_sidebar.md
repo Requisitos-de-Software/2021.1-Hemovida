@@ -32,11 +32,16 @@
 
 - Análise
   - **Verificação**
-    - [MoSCoW](./analise/verificacao/moscow.md)
+    - [5W2H](./analise/verificacao/5W2H.md)
     - [Personas](./analise/verificacao/personas.md)
-    - [Bainstorming](./analise/verificacao/verificacao_brainstorm.md)
-    - [First Things First](./analise/verificacao/verificacao_ftf.md)
+    - [Observação](./analise/verificacao/observacao.md)
+    - [Bainstorm](./analise/verificacao/brainstorm.md)
+    - [Storytelling](./analise/verificacao/storytelling.md)
+    - [First Things First](./analise/verificacao/ftf.md)
+    - [MoSCoW](./analise/verificacao/moscow.md)
     - [NFR Framework](./analise/verificacao/verificacao_nfr.md)
+    - [Especificação Suplementar](./analise/verificacao/especificacao_suplementar.md)
+    - [Léxicos](./analise/verificacao/lexicos.md)
 
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
