@@ -45,6 +45,9 @@
     - [Léxicos](./analise/verificacao/lexicos.md)
     - [Introspecção](./analise/verificacao/verifica_introspeccao.md)
 
+    - **Validação**
+      - [Validação Informal](./analise/validacao/informal.md)
+      
 - Apresentações
   - [Ponto de Controle 1](./apresentacoes/ponto_controle_1.md)
   - [Ponto de Controle 2](./apresentacoes/ponto_controle_2.md)
