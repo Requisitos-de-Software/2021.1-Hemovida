@@ -1,4 +1,4 @@
-# <center> Verificação - NFR Framework
+# <center> Verificação do NFR Framework
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

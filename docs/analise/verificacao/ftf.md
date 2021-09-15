@@ -1,4 +1,4 @@
-# <center> Verificação First Things First
+# <center> Verificação do First Things First
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

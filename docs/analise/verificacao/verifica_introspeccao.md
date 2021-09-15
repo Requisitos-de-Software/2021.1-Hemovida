@@ -1,4 +1,4 @@
-# <center> Verificação do documento da Introspecção
+# <center> Verificação da Introspecção
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

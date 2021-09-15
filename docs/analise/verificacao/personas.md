@@ -1,4 +1,4 @@
-# <center> Verificação - Personas
+# <center> Verificação do Personas
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |

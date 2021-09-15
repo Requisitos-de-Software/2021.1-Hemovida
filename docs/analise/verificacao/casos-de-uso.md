@@ -1,4 +1,4 @@
-# <center> Verificação Casos de Uso
+# <center> Verificação dos Casos de Uso
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |
