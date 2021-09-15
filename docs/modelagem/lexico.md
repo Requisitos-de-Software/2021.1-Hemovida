@@ -1,4 +1,4 @@
-# Léxicos
+# <center>Léxicos
 
 ## Histórico de Revisões
 
