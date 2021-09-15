@@ -44,6 +44,8 @@
     - [Especificação Suplementar](./analise/verificacao/especificacao_suplementar.md)
     - [Léxicos](./analise/verificacao/lexicos.md)
     - [Introspecção](./analise/verificacao/verifica_introspeccao.md)
+    - [Casos de Uso](./analise/verificacao/casos-de-uso.md)
+    - [Cenários](./analise/verificacao/cenarios.md)
 
     - **Validação**
       - [Validação Informal](./analise/validacao/informal.md)
