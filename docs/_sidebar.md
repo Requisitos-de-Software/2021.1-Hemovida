@@ -47,8 +47,9 @@
     - [Casos de Uso](./analise/verificacao/casos-de-uso.md)
     - [Cenários](./analise/verificacao/cenarios.md)
 
-    - **Validação**
-      - [Validação Informal](./analise/validacao/informal.md)
+  - **Validação**
+    - [Validação Informal](./analise/validacao/informal.md)
+    - [Protótipo](./analise/validacao/prototipo.md)
 
 - Pós-Rastreabilidade
 <!--  - [Backward-From]()-->
