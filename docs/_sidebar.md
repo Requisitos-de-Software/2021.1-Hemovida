@@ -60,3 +60,4 @@
   - [Ponto de Controle 2](./apresentacoes/ponto_controle_2.md)
   - [Ponto de Controle 3](./apresentacoes/ponto_controle_3.md)
   - [Ponto de Controle 4](./apresentacoes/ponto_controle_4.md)
+  - [Ponto de Controle 5](./apresentacoes/ponto_controle_5.md)
