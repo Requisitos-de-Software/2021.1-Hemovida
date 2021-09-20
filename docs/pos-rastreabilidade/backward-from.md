@@ -3,34 +3,28 @@
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |
 | :-: | :-: | :-: | :-: |
-| 14/08/2021 | 0.1 | Lorrayne Cardozo | Criação do documento |
-| 02/09/2021 | 0.2 | Jaime Juan | Adição dos links léxicos |
-| 14/09/2021 | 0.3 | Lorrayne Cardozo | Correções nas técnicas utilizadas |
+| 15/09/2021 | 0.1 | Lorrayne Cardozo | Criação do documento |
 
 <div align="justify">
 
 ## 1. Introdução
-O presente documento reúne todos os requisitos levantados ao longo do projeto utilizando técnicas de elicitação, totalizando 29 requisitos funcionais e 8 requisitos não-funcionais.
+O rastreamento de requisitos é feito para designar relacionamentos entre requisitos, proporcionando uma melhor compreensão de seus relacionamentos. A rastreabilidade backward-from significa "para trás"; "a partir de", e é utilizada para conectar requisitos às suas origens.
 
-## 2. Metologia
-A equipe utilizou diferentes técnicas de elicitação para levantar e concluir, finalmente, a lista de requisitos do projeto. As técnicas utilizadas foram:
-* Brainstorm;
-* Observação;
-* Storytelling;
-* Introspecção.
-
-Os requisitos levantados em tais técnicas foram compilados e cada um deles é identificado por um ID, que possui o prefixo RF para requisitos funcionais e RNF para requisitos não-funcionais, juntamente com sua numeração. Para melhor rastreabilidade, as técnicas em que cada requisito se originou serão identificadas com a sigla da técnica juntamente com o número do requisito no devido documento. As técnicas serão referenciadas pelas seguintes siglas:
+## 2. Legenda
 
 <center>
 
-| Técnica | Sigla |
-|:-:|:-:|
+| | |
+|:-|:-:|
+| Requisito Funcional | RF |
+| Requisito Não-Funcional | RNF|
 | Brainstorm   | BT |
 | Observação   | OBS |
 | Storytelling | ST |
 | Introspecção | ITP |
 
 </center>
+
 
 ## 3. Resultado
 ### 3.1. Requisitos Funcionais
@@ -69,7 +63,7 @@ Os requisitos levantados em tais técnicas foram compilados e cada um deles é i
 
 ### 3.2. Requisitos Não-Funcionais
 | ID | Requisito | Técnica Utilizada |
-| :-: | :-: | :-: |
+| :-: | :-: | :- |
 | RNF01 | O aplicativo deve ter um layout responsivo para variados tamanhos de telas | [BT21](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/brainstorm) |
 | RNF02 | O aplicativo deve ser leve (não ser maior que 100MB) | [BT22](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/brainstorm) |
 | RNF03 | O aplicativo deve ser rapido (não demorar mais que 500ms para abrir e carregar informações) | [BT23](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/brainstorm) |
@@ -79,5 +73,5 @@ Os requisitos levantados em tais técnicas foram compilados e cada um deles é i
 | RNF07 | O aplicativo deve ter fácil uso | [BT27](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/brainstorm) |
 | RNF08 | O aplicativo deve ser intuitivo | [BT28](https://requisitos-de-software.github.io/2021.1-Hemovida/#/./elicitacao/brainstorm) |
 
-## 5. Referências
-> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. Slides apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+## 4. Referências
+> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2019. Slides apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
