@@ -4,6 +4,7 @@
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 30/08/2021 | 0.1 | Lorrayne Cardozo | Criação do documento |
+| 13/10/2021 | 0.2 | Lorrayne Cardozo | Revisão do documento |
 <div align="justify">
 
 ## 1. Introdução
@@ -20,16 +21,15 @@ A verificação do documento Brainstorm será feita de acordo com a metodologia 
 ## 4. Verificação
 | | Critério | Resultado |
 | :-: | :- | :-: |
-| 1 | O documento tem versionamento? | ✅ |
-| 2 | A reunião feita para o Brainstorm foi descrita detalhadamente? | ✅ |
-| 3 | A metodologia utilizada está bem detalhada? | ✅ |
-| 4 | Os requisitos funcionais estão bem escritos? | ✅ |
-| 5 | Os requisitos não-funcionais estão bem escritos? | ✅ |
-| 6 | A ortografia do documento está correta? | ✅ |
-| 7 | A bibliografia utilizada na criação do documento foi descrita? | ✅ |
+| 01 | A equipe fez a reunião do Brainstorm? | ✅ |
+| 02 | Todos os integrantes contribuíram na reunião? | ✅ |
+| 03 | A reunião feita para o Brainstorm foi descrita detalhadamente? | ❌ |
+| 04 | A metodologia utilizada na criação do Brainstorm foi descrita detalhadamente? | ✅ |
+| 05 | Os requisitos identificados estão coerentes? | ✅ |
+| 06 | Os léxicos estão linkados? |✅|
 
 ## 5. Conclusão
-Após a análise do Brainstorm, conclui-se que o documento não apresenta irregularidades, tendo em vista que 100% do total de 7 critérios foram atendidos.
+Após a análise do Brainstorm conclui-se que dos 6 critérios avaliados 83,3% foram atendidos, que representam 5 critérios, e 16,7% não foram atendidos, representando 1 critério. Para melhoria do documento, se faz necessário melhorar a descrição da reunião do Brainstorm.
 
 ## 6. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

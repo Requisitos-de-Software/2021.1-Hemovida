@@ -4,6 +4,7 @@
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 04/09/2021 | 0.1 | Lorrayne Cardozo | Criação do documento |
+| 13/10/2021 | 0.2 | Lorrayne Cardozo | Revisão do documento |
 <div align="justify">
 
 ## 1. Introdução
@@ -20,14 +21,16 @@ A verificação do documento Observação será feita de acordo com a metodologi
 ## 4. Verificação
 | | Critério | Resultado |
 | :-: | :- | :-: |
-| 1 | Os léxicos estão linkados? |✅|
-| 2 | Os requisitos identificados estão coerentes? |✅|
-| 3 | Todos os termos importantes possuem léxicos? |✅|
-| 4 | O processo para elicitação os requisitos foi descrito detalhadamente? |✅|
-| 5 | A ortografia do documento está correta? |✅|
+| 01 | O autor do documento agiu como um usuário do sistema? |✅|
+| 02 | A metodologia utilizada foi descrita detalhadamente? |✅|
+| 03 | Os pontos negativos da técnica foram citados? |✅|
+| 04 | O processo para de utilização do sistema para o levantamento de requisitos foi descrito detalhadamente? |❌|
+| 05 | Os requisitos identificados estão coerentes? |✅|
+| 06 | Os léxicos estão linkados? |✅|
+
 
 ## 5. Conclusão
-Após a análise do documento de Observação, conclui-se que o documento não apresenta irregularidades, tendo em vista que 100% do total de 5 critérios foram atendidos.
+Após a análise do documento de Observação conclui-se que dos 6 critérios avaliados 83,3% foram atendidos, que representam 5 critérios, e 16,7% não foram atendidos, representando 1 critério. Para melhoria do documento, se faz necessário melhorar a descrição do processo de utilização do sistema.
 
 ## 6. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

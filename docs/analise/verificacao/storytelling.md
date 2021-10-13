@@ -4,6 +4,7 @@
 | Data | Versão | Autor | Descrição |
 | :-:|:-:|:-:|:-: |
 | 04/09/2021 | 0.1 | Lorrayne Cardozo | Criação do documento |
+| 13/10/2021 | 0.2 | Lorrayne Cardozo | Revisão do documento |
 <div align="justify">
 
 ## 1. Introdução
@@ -20,16 +21,17 @@ A verificação do documento Storytelling será feita de acordo com a metodologi
 ## 4. Verificação
 | | Critério | Resultado |
 | :-: | :- | :- |
-| 1 | Os léxicos estão linkados? |✅|
-| 2 | Os requisitos identificados estão coerentes? |✅|
-| 3 | A história é condizente com o uso do aplicativo? |✅|
-| 4 | Os atores são condizentes com os usuários do aplicativo? |✅|
-| 5 | A ferramenta utilizada foi descrita? |❌|
-| 6 | A ortografia do documento está correta? |✅|
+| 01 | A metodologia utilizada foi descrita detalhadamente? |✅|
+| 02 | A história é condizente com o uso do aplicativo? |✅|
+| 03 | Os atores são condizentes com os usuários do aplicativo? |✅|
+| 04 | O aplicativo Hemovida é satisfatório para os usuários em todas as hitórias? |✅|
+| 05 | Os requisitos identificados estão coerentes? |✅|
+| 06 | A ferramenta utilizada para a criação dos desenhos foi descrita? |❌|
+| 07 | Os léxicos estão linkados? |✅|
 
 
 ## 5. Conclusão
-Após a análise do documento Storytelling, conclui-se que apenas 1 dos 6 critérios não foi satisfeito, totalizando 83,3% critérios atendidos e 16,7% não atendidos.
+Após a análise do Storytelling conclui-se que dos 7 critérios avaliados 85,7% foram atendidos, que representam 6 critérios, e 14,3% não foram atendidos, representando 1 critério. Para melhoria do documento, se faz necessário descrever a ferramenta utilizada pelo autor das histórias.
 
 ## 6. Referências
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
