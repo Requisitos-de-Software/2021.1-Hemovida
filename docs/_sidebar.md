@@ -32,20 +32,28 @@
 
 - Análise
   - **Verificação**
-    - [5W2H](./analise/verificacao/5W2H.md)
-    - [Rich Picture](./analise/verificacao/verifica_richpicture.md)
-    - [Personas](./analise/verificacao/personas.md)
-    - [Observação](./analise/verificacao/observacao.md)
-    - [Brainstorm](./analise/verificacao/brainstorm.md)
-    - [Storytelling](./analise/verificacao/storytelling.md)
-    - [First Things First](./analise/verificacao/ftf.md)
-    - [MoSCoW](./analise/verificacao/moscow.md)
-    - [NFR Framework](./analise/verificacao/verificacao_nfr.md)
-    - [Especificação Suplementar](./analise/verificacao/especificacao_suplementar.md)
-    - [Léxicos](./analise/verificacao/lexicos.md)
-    - [Introspecção](./analise/verificacao/verifica_introspeccao.md)
-    - [Casos de Uso](./analise/verificacao/casos-de-uso.md)
-    - [Cenários](./analise/verificacao/cenarios.md)
+    - **Pré-Rastreabilidade**
+      - [5W2H](./analise/verificacao/5W2H.md)
+      - [Rich Picture](./analise/verificacao/verifica_richpicture.md)
+
+    - **Elicitação**
+      - [Personas](./analise/verificacao/personas.md)
+      - [Observação](./analise/verificacao/observacao.md)
+      - [Brainstorm](./analise/verificacao/brainstorm.md)
+      - [Storytelling](./analise/verificacao/storytelling.md)
+      - [Introspecção](./analise/verificacao/verifica_introspeccao.md)
+    
+    - **Priorização**
+      - [First Things First](./analise/verificacao/ftf.md)
+      - [MoSCoW](./analise/verificacao/moscow.md)
+
+    - **Modelagem**
+      - [NFR Framework](./analise/verificacao/verificacao_nfr.md)
+      - [Especificação Suplementar](./analise/verificacao/especificacao_suplementar.md)
+      - [Léxicos](./analise/verificacao/lexicos.md)
+      - [Casos de Uso](./analise/verificacao/casos-de-uso.md)
+      - [Cenários](./analise/verificacao/cenarios.md)
+
 
   - **Validação**
     - [Validação Informal](./analise/validacao/informal.md)
