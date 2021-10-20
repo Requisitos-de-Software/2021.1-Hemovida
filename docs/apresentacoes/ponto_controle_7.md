@@ -4,7 +4,7 @@ O sétimo ponto de controle do curso de Requisitos de Software tem como foco a a
 
 ## Vídeo
 
-<iframe width="560" height="315" src="https://youtu.be/tVv172qi9V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ycx61EhtRko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Histórico de versão
 | Data | Versão | Autor | Descrição |
