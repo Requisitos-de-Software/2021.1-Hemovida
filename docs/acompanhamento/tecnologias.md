@@ -5,6 +5,7 @@
 | :-:|:-:|:-:|:-: |
 | 03/08/2021 | 0.1 | Victor Hugo | Adicionando primeira versão das Tecnologias |
 | 04/08/2021 | 0.2 | João Victor | Adicionando tabelação das imagens |
+| 19/08/2021 | 0.3 | Jaime Juan | Adicionando novas tecnologias utilizadas |
 
 <div align="justify">
 
